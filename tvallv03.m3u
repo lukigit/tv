@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/de.xml"
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
+#EXTM3U
+#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
@@ -239,7 +239,7 @@ plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 channel-id="samsung-DEBA1000003IM" tvg-id="DEBA1000003IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png" tvg-chno="4003" group-title="News" , Euronews Live
 https://i.mjh.nz/SamsungTVPlus/DEBA1000003IM.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEAJ3500002EO" tvg-id="DEAJ3500002EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20230926T032244SQUARE.png_20230926032244.png" tvg-chno="4004" group-title="Filme" , Komödien - Rakuten TV
+#EXTINF:-1 channel-id="samsung-DEAJ3500002EO" tvg-id="DEAJ3500002EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20230926T032244SQUARE.png_20230926032244.png" tvg-chno="4004" group-title="Filme" , KomÃ¶dien - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/DEAJ3500002EO.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEBD800001S4" tvg-id="DEBD800001S4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20230308T021608SQUARE.png_20230308021608.png" tvg-chno="4005" group-title="News" , CNN
@@ -257,7 +257,7 @@ https://i.mjh.nz/SamsungTVPlus/DEBD1500001VJ.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-DEBD3700001YD" tvg-id="DEBD3700001YD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20231025T032900SQUARE.png_20231025032900.png" tvg-chno="4011" group-title="Unterhaltung" , X-MAS Mix
 https://i.mjh.nz/SamsungTVPlus/DEBD3700001YD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEBD30000014M" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-chno="4103" group-title="Unterhaltung" , Bares für Rares
+#EXTINF:-1 channel-id="samsung-DEBD30000014M" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-chno="4103" group-title="Unterhaltung" , Bares fÃ¼r Rares
 https://i.mjh.nz/SamsungTVPlus/DEBD30000014M.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEAK3504502A" tvg-id="DEAK3504502A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" tvg-chno="4110" group-title="Unterhaltung" , MTV Catfish
