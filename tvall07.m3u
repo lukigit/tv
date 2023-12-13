@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml.gz"
+EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="401" group-title="Western" , Rauchende Colts
+https://i.mjh.nz/PlutoTV/1638f2bc7bc363100072f02dd-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="402" group-title="Western" , Pluto TV Western
+https://i.mjh.nz/PlutoTV/1630dd3b2605f140007e002f5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="403" group-title="Western" , Rawhide - Tausend Meilen Staub
+https://i.mjh.nz/PlutoTV/1638f2983dcd9100008c2374d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="404" group-title="Western" 
