@@ -42,7 +42,7 @@ plugin://plugin.video.vavooto/?name=MAX+KINO+3
 #EXTINF:-1 tvg-id="MAX KINO COLLECTION" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png",Max Kino Collection
 plugin://plugin.video.vavooto/?name=MAX+KINO+COLLECTION
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel
-plugin://plugin.video.vavooto/?name=UNIVERSAL
+plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",WarnerTV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png",WarnerTV Film
