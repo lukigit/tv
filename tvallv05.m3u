@@ -12,7 +12,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren +24" group-title="Standart" tvg-logo="https://sender.epglogos.de/302x190_w/612.png",Sky Cinema Premieren +24
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN24
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN +24
 #EXTINF:-1 tvg-id="Sky Cinema Special HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/506.png",Sky Cinema Special
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png",Sky Cinema Thriller
