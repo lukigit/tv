@@ -33,6 +33,8 @@ plugin://plugin.video.vavooto/?name=SKY+REPLAY
 plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
 #EXTINF:-1 tvg-id="SKY COMEDY" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/375px-Sky_Comedy_logo_2020.svg.png",SKY COMEDY
 plugin://plugin.video.vavooto/?name=SKY+COMEDY
+#EXTINF:-1 tvg-id="SKY SERIEN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/375px-SKY_Basic_Logo.svg.png",SKY SERIEN
+plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS
 #EXTINF:-1 tvg-id="SKY CINEMA EMOTION" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/375px-SKY_Basic_Logo.svg.png",SKY CINEMA EMOTION
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+EMOTION
 #EXTINF:-1 tvg-id="MAX KINO" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png",Max Kino
