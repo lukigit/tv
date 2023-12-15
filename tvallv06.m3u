@@ -361,3 +361,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-USBD1200010I8" tvg-id="USBD1200010I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20230523T230753SQUARE.png_20230523230754.png" tvg-chno="5002" group-title="Sports" , Origin Sports - USA TV
 https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-USBD25000161U" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20230823T001638SQUARE.png_20230823001639.png" tvg-chno="5003" group-title="Sports" , ACC Digital Network - USA TV
+https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8|user-agent=okhttp/4.10.0
