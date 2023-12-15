@@ -2,6 +2,15 @@
 #EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="99400" group-title="Neu auf Pluto TV" , Wicked Tuna
 https://i.mjh.nz/PlutoTV/15ad9be1be738977e2c312134-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5ad9b8551b95267e225e59c1" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-chno="99405" group-title="Dokus + Wissen" , Pluto TV Explore
+https://i.mjh.nz/PlutoTV/15ad9b8551b95267e225e59c1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="99406" group-title="Entertainment" , Fluss-Monster
+https://i.mjh.nz/PlutoTV/162a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-5dde47b63585b500099f74ec" tvg-id="5dde47b63585b500099f74ec" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" tvg-chno="99407" group-title="Filme" , Pluto TV Kultfilme
+https://i.mjh.nz/PlutoTV/15dde47b63585b500099f74ec-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
 #EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="99401" group-title="Western" , Rauchende Colts
 https://i.mjh.nz/PlutoTV/1638f2bc7bc363100072f02dd-alt.m3u8
 
@@ -13,9 +22,3 @@ https://i.mjh.nz/PlutoTV/1638f2983dcd9100008c2374d-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="99404" group-title="Western" , Fury
 https://i.mjh.nz/PlutoTV/16270ea4345f5bc0007823048-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5ad9b8551b95267e225e59c1" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-chno="99405" group-title="Dokus + Wissen" , Pluto TV Explore
-https://i.mjh.nz/PlutoTV/15ad9b8551b95267e225e59c1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="99406" group-title="Entertainment" , Fluss-Monster
-https://i.mjh.nz/PlutoTV/162a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
