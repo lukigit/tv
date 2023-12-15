@@ -353,8 +353,8 @@ https://i.mjh.nz/SamsungTVPlus/DEAJ3500003YF.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-DEAJ3500001Q1" tvg-id="DEAJ3500001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500001Q1_20220323T074838SQUARE.png_20220323074840.png" tvg-chno="4999" group-title="Filme" , Actionfilme - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/DEAJ3500001Q1.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png" tvg-chno="5000" group-title="Sports" , CBS Sports HQ
+#EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png" tvg-chno="5000" group-title="Sports" , CBS Sports HQ - USA TV
 https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-USBC600001QL" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png" tvg-chno="5001" group-title="Sports" , T2
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" tvg-chno="5001" group-title="Sports" , MSG SportsZone - USA TV
+https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8|user-agent=okhttp/4.10.0
