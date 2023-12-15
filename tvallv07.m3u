@@ -22,3 +22,6 @@ https://i.mjh.nz/PlutoTV/1638f2983dcd9100008c2374d-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="99404" group-title="Western" , Fury
 https://i.mjh.nz/PlutoTV/16270ea4345f5bc0007823048-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-615c1e5ce3039400070a0547" tvg-id="615c1e5ce3039400070a0547" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" tvg-chno="99408" group-title="Filme" , MOVIEDOME
+https://i.mjh.nz/PlutoTV/1615c1e5ce3039400070a0547-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
