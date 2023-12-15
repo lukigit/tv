@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
+#EXTINF:-1 tvg-id="UPDATE 15.12.2023" group-title="Standart", 10 neue Sender!! 
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
