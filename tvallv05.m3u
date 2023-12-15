@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
-#EXTINF:-1 tvg-id="15.12.2023 UPDATE 10 neue Sender" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! Sender 238-250
+#EXTINF:-1 tvg-id="15.12.2023 UPDATE 10 neue Sender" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! NEU !! KANAL 238-250
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
