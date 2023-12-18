@@ -29,5 +29,5 @@ https://i.mjh.nz/PlutoTV/1615c1e5ce3039400070a0547-alt.m3u8|user-agent=okhttp/4.
 #EXTINF:-1 channel-id="pluto-62f4f4b88157cf00075c22db" tvg-id="62f4f4b88157cf00075c22db" tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" tvg-chno="99409" group-title="Filme" , Pluto TV Horror
 https://i.mjh.nz/PlutoTV/162f4f4b88157cf00075c22db-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
-#EXTINF:-1 channel-id="pluto-5cc81e793798650e4f7d9fd3" tvg-id="5cc81e793798650e4f7d9fd3" tvg-logo="https://images.pluto.tv/channels/5cc81e793798650e4f7d9fd3/colorLogoPNG.png" tvg-chno="99410" group-title="Filme" , The Asylum Channel
-https://i.mjh.nz/PlutoTV/15cc81e793798650e4f7d9fd3-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+#EXTINF:-1 channel-id="pluto-63c9430af13a9b000786422a" tvg-id="63c9430af13a9b000786422a" tvg-logo="https://images.pluto.tv/channels/63c9430af13a9b000786422a/colorLogoPNG.png" tvg-chno="99410" group-title="Filme" , Pluto TV Kino Filme
+https://i.mjh.nz/PlutoTV/163c9430af13a9b000786422a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
