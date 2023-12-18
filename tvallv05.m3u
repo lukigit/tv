@@ -87,6 +87,8 @@ plugin://plugin.video.vavooto/?name=A%26E
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
 plugin://plugin.video.vavooto/?name=DELUXE MUSIC
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/208px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png", DELUXE DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery
