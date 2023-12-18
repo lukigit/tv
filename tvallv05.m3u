@@ -151,22 +151,60 @@ plugin://plugin.video.vavooto/?name=ONE
 plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
-#EXTINF:-1 tvg-name="Servus TV AT" tvg-logo="https://i.imgur.com/zDWhSxq.png" tvg-id="ServusTVOsterreich.at" group-title="Austria",Servus TV AT
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
-#EXTINF:-1 tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" tvg-id="Oe24TV.at" group-title="Austria",oe24
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
-#EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-id="W24.at" group-title="Austria",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="P3TV" tvg-logo="https://i.imgur.com/1sPhZ57.png" tvg-id="P3tv.at" group-title="Austria",P3TV
-http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" tvg-id="RTV.at" group-title="Austria",RTV
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-name="RTS Ⓖ" tvg-logo="https://i.imgur.com/Bhv7lvy.png" tvg-id="TVTV.at" group-title="Austria",RTS Ⓖ
-https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV Ⓖ" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" tvg-id="TirolTV.at" group-title="Austria",Tirol TV Ⓖ
-http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF:-1 tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" tvg-id="R9.at" group-title="Austria",R9
+#EXTINF:-1 tvg-id="DorfTV.at",Dorf TV (576p)
+https://stream.openplayout.org/hls/dorftv/live.m3u8
+#EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg (720p) [Not 24/7]
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg (720p) [Not 24/7]
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="FUELTV.at",FUEL TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1 tvg-id="KTV.at",K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KroneTV.at",Krone.TV (360p)
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:-1 tvg-id="Kronehit.at",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KurierTV.at",Kurier TV (720p)
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:-1 tvg-id="LandleTV.at",Ländle TV (1080p) [Not 24/7]
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="Oe24TV.at",oe24 TV (1080p)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OktoTV.at",Okto TV (1080p)
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at",ORF 3 (720p) [Geo-blocked]
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at",ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="P3tv.at",P3tv (720p) [Not 24/7]
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-id="R9.at",R9 (720p) [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RTV.at",RTV (1080p) [Not 24/7]
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at",Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at",ServusTV (1080p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at",Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at",Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at",Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TirolTV.at",Tirol TV (720p) [Not 24/7]
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at",TV 1 Oberösterreich (1080p)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="UpperaBalkan.at",Uppera Balkan (720p) [Geo-blocked]
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 tvg-id="VM1Sehen.at",VM1 Sehen (1080p)
+https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="W24.at",W24 (720p) [Not 24/7]
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PHOENIX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
 plugin://plugin.video.vavooto/?name=PHOENIX
 #EXTINF:-1 tvg-id="PULS 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
