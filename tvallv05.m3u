@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
-#EXTINF:-1 tvg-id="15.12.2023 UPDATE 10 neue Sender" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! TEST v Kanal 75-82
+#EXTINF:-1 tvg-id="15.12.2023 UPDATE 10 neue Sender" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! TEST v Kanal 75-91
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
@@ -151,39 +151,35 @@ plugin://plugin.video.vavooto/?name=ONE
 plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
-#EXTINF:-1 tvg-id="Oe24TV.at",oe24 TV (1080p)
+#EXTINF:-1 tvg-id="Oe24TV.at",oe24 TV 
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ServusTV.at",ServusTV austria
+#EXTINF:-1 tvg-id="ServusTV.at",ServusTV HD austria
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 tvg-id="DorfTV.at",Dorf TV (576p)
+#EXTINF:-1 tvg-id="DorfTV.at",Dorf TV 
 https://stream.openplayout.org/hls/dorftv/live.m3u8
-#EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg  [Not 24/7]
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="KTV.at",K-TV (720p)
+#EXTINF:-1 tvg-id="KTV.at",K-TV 
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="KroneTV.at",Krone.TV (360p)
+#EXTINF:-1 tvg-id="KroneTV.at",Krone.TV 
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:-1 tvg-id="KurierTV.at",Kurier TV (720p)
+#EXTINF:-1 tvg-id="KurierTV.at",Kurier TV 
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
-#EXTINF:-1 tvg-id="LandleTV.at",Ländle TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="LandleTV.at",Ländle TV  [Not 24/7]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-id="OktoTV.at",Okto TV (1080p)
+#EXTINF:-1 tvg-id="OktoTV.at",Okto TV 
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="P3tv.at",P3tv (720p) [Not 24/7]
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1 tvg-id="R9.at",R9 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="R9.at",R9  [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTV.at",RTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV.at",RTV  [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at",Schladming-Dachstein TV (720p)
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at",Schladming-Dachstein TV 
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TirolTV.at",Tirol TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TirolTV.at",Tirol TV  [Not 24/7]
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="TV1Oberosterreich.at",TV 1 Oberösterreich (1080p)
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at",TV 1 Oberösterreich 
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 tvg-id="W24.at",W24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="W24.at",W24  [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PHOENIX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
 plugin://plugin.video.vavooto/?name=PHOENIX
