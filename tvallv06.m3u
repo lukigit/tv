@@ -373,3 +373,6 @@ https://i.mjh.nz/PlutoTV/15a74b8e1e22a61737979c6bf-alt.m3u8|user-agent=okhttp/4.
 
 #EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" tvg-chno="5006" group-title="Sports" , Pluto TV Sports USA
 https://i.mjh.nz/PlutoTV/156340779a738201b4ccfeac9-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
+
+#EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" tvg-chno="5007" group-title="Sci-Fi & Horror" , Alien Nation USA
+https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8|user-agent=okhttp/4.10.0
