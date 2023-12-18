@@ -368,7 +368,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-id="NBA TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/225px-NBA_TV.svg.png" tvg-chno="5004" group-title="Sports", NBA TV
 plugin://plugin.video.vavooto/?name=NBA+TV
 
-#EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="5005" group-title="Sports" , FOX Sports
+#EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="5005" group-title="Sports" , FOX Sports USA
 https://i.mjh.nz/PlutoTV/15a74b8e1e22a61737979c6bf-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
 #EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" tvg-chno="5006" group-title="Sports" , Pluto TV Sports USA
