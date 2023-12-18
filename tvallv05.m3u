@@ -152,7 +152,7 @@ plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
 #EXTINF:-1 tvg-id="Oe24TV.at",oe24 TV 
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 #EXTINF:-1 tvg-id="ServusTV.at",ServusTV HD austria
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-id="DorfTV.at",Dorf TV 
