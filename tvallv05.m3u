@@ -89,6 +89,14 @@ plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 plugin://plugin.video.vavooto/?name=DELUXE MUSIC
 #EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/208px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png", DELUXE DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DEEJAY TV ITALIA" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/DeeJay_TV.svg/198px-DeeJay_TV.svg.png",Deejay TV Italy
+plugin://plugin.video.vavooto/?name=DEEJAY+TV
+#EXTINF:-1 tvg-id="Krone Hit TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1247.png",Krone Hit TV
+plugin://plugin.video.vavooto/?name=KRONE+HIT+TV
+#EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
+plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery
@@ -101,8 +109,6 @@ plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Krone Hit TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1247.png",Krone Hit TV
-plugin://plugin.video.vavooto/?name=KRONE+HIT+TV
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo
 plugin://plugin.video.vavooto/?name=GEO
 #EXTINF:-1 tvg-id="BILD TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/270px-Bild_%28Fernsehsender%29_logo.svg.png",BILD TV
@@ -113,8 +119,6 @@ plugin://plugin.video.vavooto/?name=HEIMATKANAL
 plugin://plugin.video.vavooto/?name=HISTORY
 #EXTINF:-1 tvg-id="HR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png",HR
 plugin://plugin.video.vavooto/?name=HR
-#EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
-plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png",Junior
 plugin://plugin.video.vavooto/?name=JUNIOR
 #EXTINF:-1 tvg-id="kabel eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
@@ -127,8 +131,6 @@ plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 plugin://plugin.video.vavooto/?name=KIKA
 #EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
 plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
-plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
 plugin://plugin.video.vavooto/?name=MOTORVISION
 #EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
@@ -269,6 +271,3 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="DMAX ITALIA" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX ITALIA
-plugin://plugin.video.vavooto/?action=channels&group=Italy&name=DMAX
-
