@@ -374,8 +374,17 @@ https://i.mjh.nz/PlutoTV/15a74b8e1e22a61737979c6bf-alt.m3u8|user-agent=okhttp/4.
 #EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" tvg-chno="5006" group-title="Sports" , Pluto TV Sports USA
 https://i.mjh.nz/PlutoTV/156340779a738201b4ccfeac9-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" , USA TODAY SPORTS
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5a1a23c-cc0e-4f54-9e46-ab9a9ef49165/ImpactWrestling_White_1500x1000.png" , IMPACT Wrestling USA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" , HBCUGO SPORTS USA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
+
 #EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" tvg-chno="5007" group-title="Sci-Fi & Horror" , Alien Nation USA
 https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" , USA TODAY SPORTS
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a878ba27-c8d8-46dc-8e89-73e8e0909417/GhostHunters_Logo_White_1500x1000_Chris.png" , Ghost Hunters Channel USA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
