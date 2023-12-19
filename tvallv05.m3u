@@ -269,4 +269,6 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="DMAX ITALIA" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX ITALIA
+plugin://plugin.video.vavooto/?action=channels&group=Italy&name=DMAX
 
