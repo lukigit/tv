@@ -388,3 +388,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a878ba27-c8d8-46dc-8e89-73e8e0909417/GhostHunters_Logo_White_1500x1000_Chris.png" tvg-chno="5011" , Ghost Hunters Channel USA
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a" tvg-id="5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f6e3289-3420-484b-8b67-14fa777a03d0/beyond_paranormal__E4E2E2_Bryan_Mcdaid.png" tvg-chno="5012" , Beyond Paranormal USA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
