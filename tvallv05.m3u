@@ -86,11 +86,11 @@ plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
-plugin://plugin.video.vavooto/?name=DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/208px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png", DELUXE DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DEEJAY TV ITALIA" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/DeeJay_TV.svg/198px-DeeJay_TV.svg.png",Deejay TV Italy
-plugin://plugin.video.vavooto/?name=DEEJAY+TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="Krone Hit TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1247.png",Krone Hit TV
 plugin://plugin.video.vavooto/?name=KRONE+HIT+TV
 #EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
