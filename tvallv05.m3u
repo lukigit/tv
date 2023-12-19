@@ -271,5 +271,3 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="DMAX Italia" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX Italia
-https://vavoo.to/live2/play/1770198717.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2OTkwOTM2NzM5OTQsXCJ2YWxpZFVudGlsXCI6MTY5OTA5NDg3Mzk5NCxcInV1aWRcIjpcImVDbDhXK0FWUWhVN3ZSQ2VObi9OZVo0OEpEUHh6Yll3a1AvMDBSbjVEOEU9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE0OS44OC4xOS4yMzlcIl0sXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwibGludXhcIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VydmljZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im5DeGxOcENRNzYzdkRrZHI4U0tEc0pTOGVmRXFhaWcyMVFMaGtuVEVBRk9DNnhTY2lGa29yaG9UQi9RUmNqUU1WcEk4N1Fqejd5UkUzSXhnUmJ3Uno0UEJhQVY3TTdIK0VnenZrTUVmZ0t0bS9naHMvNGJYNExDK3U5dlBKUUIzUVdxbmdxZlVUR1lON0dDYVp2S3ZYTk9yR3FiVE5yRHNnMlN6WnMvNlJwMD0ifQ==
