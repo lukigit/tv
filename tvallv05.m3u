@@ -163,12 +163,8 @@ plugin://plugin.video.vavooto/?name=ORF+2
 plugin://plugin.video.youtube/play/?video_id=zinF90PvBhk
 #EXTINF:-1 tvg-id="ServusTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV HD AUSTRIA
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 tvg-id="DorfTV.at",Dorf TV 
-https://stream.openplayout.org/hls/dorftv/live.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg  [Not 24/7]
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="KTV.at",K-TV 
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KroneTV.at",Krone.TV 
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-id="KurierTV.at",Kurier TV 
