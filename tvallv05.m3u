@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
+#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz, https://github.com/iptv-org/epg/blob/master/sites/tv.magenta.at/tv.magenta.at.channels.xml"
 #EXTINF:-1 tvg-id="updater" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! TEST v Kanal 77-90
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
@@ -161,11 +161,11 @@ plugin://plugin.video.vavooto/?name=ORF+1
 plugin://plugin.video.vavooto/?name=ORF+2
 #EXTINF:-1 tvg-id="oe24.TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/435.png",OE24 TV
 plugin://plugin.video.youtube/play/?video_id=zinF90PvBhk
-#EXTINF:-1 tvg-id="ServusTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV HD AUSTRIA
+#EXTINF:-1 tvg-id="ServusTVHD.at" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV HD AUSTRIA
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg  [Not 24/7]
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="KroneTV.at",Krone.TV 
+#EXTINF:-1 tvg-id="kronetv.at",Krone.TV 
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-id="KurierTV.at",Kurier TV 
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
