@@ -291,3 +291,5 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch",Alpenland TV / Schweiz
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png",Warner Bros. Discovery DMAX I HD
+rtp://239.186.84.89:10000
