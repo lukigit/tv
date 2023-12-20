@@ -163,6 +163,8 @@ plugin://plugin.video.vavooto/?name=ORF+2
 plugin://plugin.video.youtube/play/?video_id=zinF90PvBhk
 #EXTINF:-1 tvg-id="ServusTVHD.at" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV HD AUSTRIA
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-id="ServusTV wetter" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV WETTER
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at",FS1 Salzburg  [Not 24/7]
 https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="kronetv.at",Krone.TV 
@@ -291,5 +293,3 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch",Alpenland TV / Schweiz
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png",Warner Bros. Discovery DMAX I HD
-https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
