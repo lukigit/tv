@@ -299,7 +299,6 @@ plugin://plugin.video.vavooto/?name=ITALIAN+FISHING+TV
 plugin://plugin.video.vavooto/?name=RAI+MOVIE
 #EXTINF:-1 tvg-id="RAI PREMIUM" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/450px-Rai_Premium_-_Logo_2017.svg.png", RAI PREMIUM / Italien
 plugin://plugin.video.vavooto/?name=RAI+PREMIUM
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png", Warner Bros. Discovery DMAX I HD
 rtp://239.186.84.89:10000
