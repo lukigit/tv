@@ -295,3 +295,7 @@ https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Italien Fishing Channel" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Caccia_e_Pesca_2012.png/390px-Caccia_e_Pesca_2012.png",Italien Fishing TV
 plugin://plugin.video.vavooto/?name=ITALIAN+FISHING+TV
+#EXTINF:-1 tvg-id="RAI MOVIE" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/450px-Rai_Movie_-_Logo_2017.svg.png", RAI MOVIE / Italien
+plugin://plugin.video.vavooto/?name=RAI+MOVIE
+#EXTINF:-1 tvg-id="RAI PREMIUM" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/450px-Rai_Premium_-_Logo_2017.svg.png", RAI PREMIUM / Italien
+plugin://plugin.video.vavooto/?name=RAI+PREMIUM
