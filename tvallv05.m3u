@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml"
+#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
 #EXTINF:-1 tvg-id="updater" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE INFO !! TEST v Kanal 77-90
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
@@ -282,4 +282,12 @@ http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 tvg-name="RSI La 2" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch" group-title="Switzerland",RSI La 2 / Schweiz
 http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino / Schweiz
-https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1 tvg-id="OneTV.ch",One TV / Schweiz
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="Tele1.ch",Tele 1 / Schweiz
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="TeleZuri.ch",TeleZürich / Schweiz
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
+#EXTINF:-1 tvg-id="AlpenlandTV.ch",Alpenland TV / Schweiz
+https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
