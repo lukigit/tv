@@ -273,14 +273,8 @@ plugin://plugin.video.vavooto/?name=DMAX
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/5QFZ05B.png" tvg-id="TVO.ch" group-title="Switzerland",TVO / Schweiz
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-name="RTS Un" tvg-logo="https://i.imgur.com/gWuuBZc.png" tvg-id="RTS1.ch" group-title="Switzerland",RTS Un / Schweiz
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585
 #EXTINF:-1 tvg-name="TVM 3" tvg-logo="https://i.imgur.com/3v6iZE6.png" tvg-id="TVM3.ch" group-title="Switzerland",TVM 3 / Schweiz
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" tvg-id="RSILa1.ch" group-title="Switzerland",RSI La 1 / Schweiz
-http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1 tvg-name="RSI La 2" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch" group-title="Switzerland",RSI La 2 / Schweiz
-http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino / Schweiz
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch",One TV / Schweiz
@@ -291,7 +285,13 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch",Alpenland TV / Schweiz
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="Italy",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RAI MOVIE" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/450px-Rai_Movie_-_Logo_2017.svg.png", RAI MOVIE / Italien
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-id="RAI PREMIUM" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/450px-Rai_Premium_-_Logo_2017.svg.png", RAI PREMIUM / Italien
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+#EXTINF:-1 tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-id="Cine34.it" group-title="Italy",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
