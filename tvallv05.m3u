@@ -294,6 +294,6 @@ https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m
 #EXTINF:-1 tvg-id="Italien Fishing Channel" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Caccia_e_Pesca_2012.png/390px-Caccia_e_Pesca_2012.png",Italien Fishing TV
 plugin://plugin.video.vavooto/?name=ITALIAN+FISHING+TV
 #EXTINF:-1 tvg-id="RAI MOVIE" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/450px-Rai_Movie_-_Logo_2017.svg.png", RAI MOVIE / Italien
-plugin://plugin.video.vavooto/?name=RAI+MOVIE
+plugin://plugin.video.vavooto/?action=channels&group=Italy&name=RAI+MOVIE
 #EXTINF:-1 tvg-id="RAI PREMIUM" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/450px-Rai_Premium_-_Logo_2017.svg.png", RAI PREMIUM / Italien
 plugin://plugin.video.vavooto/?name=RAI+PREMIUM
