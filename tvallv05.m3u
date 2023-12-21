@@ -293,8 +293,6 @@ https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/a
 https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleZuri.ch",TeleZürich / SCHWEIZ
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch",My Cinema Europe / SCHWEIZ
-http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="Kanal9.ch",Kanal 9    Deutsch / SCHWEIZ
 https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch",Carac 1 / FRANCE
