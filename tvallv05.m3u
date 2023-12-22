@@ -171,7 +171,7 @@ https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
 #EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:-1 tvg-name="Kurier TV" tvg-id="Kurier TV" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/KURIER_Logo_RGB.svg/300px-KURIER_Logo_RGB.svg.png" Kurier TV
+#EXTINF:-1 tvg-name="Kurier TV" tvg-id="Kurier TV" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/KURIER_Logo_RGB.svg/300px-KURIER_Logo_RGB.svg.png", Kurier TV
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 tvg-id="LandleTV.at",Ländle TV  [Not 24/7]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
