@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz, https://github.com/iptv-org/epg/raw/master/sites/sky.de/sky.de.channels.xml"
+#EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
 #EXTINF:-1 tvg-id="updater" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE: TEST Kanäle Schweiz 135-145/ Russia 287-311
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
