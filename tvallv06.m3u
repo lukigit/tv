@@ -394,3 +394,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a.m3u8|use
 
 #EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png" tvg-chno="5013" , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-name="espnusa" tvg-id="espnusa", espnusa
+https://webudit.webhd.ru/lb/premium44/index.m3u8?Connection=keep-alive|Referer=https://weblivehdplay.ru/premiumtv/premiumtv/livetvon.php?id=44&User-Agent=Mozilla/5.0
