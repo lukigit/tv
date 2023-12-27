@@ -421,3 +421,6 @@ https://live.tv247us.com/tv247/fox.m3u8|Referer=http://tv247.us/all-channels/
 
 #EXTINF:-1 tvg-name="TNT USA" tvg-id="TNT USA", T N T USA
 https://live.tv247us.com/tv247/tnt.m3u8|Referer=http://tv247.us/all-channels/
+
+#EXTINF:-1 tvg-name="CINEMAX USA" tvg-id="CINEMAX USA", cinemax USA
+https://live.tv247us.com/tv247/cinemaxus.m3u8|Referer=http://tv247.us/all-channels/
