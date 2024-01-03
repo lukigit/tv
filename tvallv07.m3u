@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml.gz"
+#EXTINF:-1 channel-id="pluto-654a2ac283595c000817e39c" tvg-id="654a2ac283595c000817e39c" tvg-logo="https://images.pluto.tv/channels/654a2ac283595c000817e39c/colorLogoPNG.png" tvg-chno="99399" group-title="Neu auf Pluto TV" , Macgyver
+https://i.mjh.nz/PlutoTV/1654a2ac283595c000817e39c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
 #EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="99400" group-title="Neu auf Pluto TV" , Wicked Tuna
 https://i.mjh.nz/PlutoTV/15ad9be1be738977e2c312134-alt.m3u8
 
