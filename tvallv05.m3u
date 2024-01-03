@@ -271,10 +271,6 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 channel-id="samsung-ITBD4400001X5" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png"  , DMAX ITALIA
-https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD4400010WK" tvg-id="ITBD4400010WK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20231213T033219SQUARE.png_20231213033220.png"  , WarnerBros TV Italia
-https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
 
 #EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1 / Schweiz
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
