@@ -1,39 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml.gz"
-#EXTINF:-1 channel-id="pluto-654a2ac283595c000817e39c" tvg-id="654a2ac283595c000817e39c" tvg-logo="https://images.pluto.tv/channels/654a2ac283595c000817e39c/colorLogoPNG.png" tvg-chno="99399" group-title="Neu auf Pluto TV" , Macgyver
-https://i.mjh.nz/PlutoTV/1654a2ac283595c000817e39c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="99400" group-title="Neu auf Pluto TV" , Wicked Tuna
-https://i.mjh.nz/PlutoTV/15ad9be1be738977e2c312134-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5ad9b8551b95267e225e59c1" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-chno="99405" group-title="Dokus + Wissen" , Pluto TV Explore
-https://i.mjh.nz/PlutoTV/15ad9b8551b95267e225e59c1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="99406" group-title="Entertainment" , Fluss-Monster
-https://i.mjh.nz/PlutoTV/162a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-5dde47b63585b500099f74ec" tvg-id="5dde47b63585b500099f74ec" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" tvg-chno="99407" group-title="Filme" , Pluto TV Kultfilme
-https://i.mjh.nz/PlutoTV/15dde47b63585b500099f74ec-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-61fbf91afb1b10000880dd08" tvg-id="61fbf91afb1b10000880dd08" tvg-logo="https://images.pluto.tv/channels/61fbf91afb1b10000880dd08/colorLogoPNG.png" tvg-chno="99404" group-title="Action & Crime" , Auf Achse
-https://i.mjh.nz/PlutoTV/161fbf91afb1b10000880dd08-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="99401" group-title="Western" , Rauchende Colts
-https://i.mjh.nz/PlutoTV/1638f2bc7bc363100072f02dd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="99402" group-title="Western" , Pluto TV Western
-https://i.mjh.nz/PlutoTV/1630dd3b2605f140007e002f5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="99403" group-title="Western" , Rawhide - Tausend Meilen Staub
-https://i.mjh.nz/PlutoTV/1638f2983dcd9100008c2374d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-615c1e5ce3039400070a0547" tvg-id="615c1e5ce3039400070a0547" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" tvg-chno="99408" group-title="Filme" , MOVIEDOME
-https://i.mjh.nz/PlutoTV/1615c1e5ce3039400070a0547-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-63c9430af13a9b000786422a" tvg-id="63c9430af13a9b000786422a" tvg-logo="https://images.pluto.tv/channels/63c9430af13a9b000786422a/colorLogoPNG.png" tvg-chno="99410" group-title="Filme" , Pluto TV Kino Filme
-https://i.mjh.nz/PlutoTV/163c9430af13a9b000786422a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-5ce40f42ba7f7f5ea9518fe1" tvg-id="5ce40f42ba7f7f5ea9518fe1" tvg-logo="https://images.pluto.tv/channels/5ce40f42ba7f7f5ea9518fe1/colorLogoPNG.png" tvg-chno="99411" group-title="Entertainment" , Ice Pilots
-https://i.mjh.nz/PlutoTV/15ce40f42ba7f7f5ea9518fe1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
 #EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" group-title="Russia",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -105,6 +70,43 @@ http://194.76.186.33:8000/play/a01l/index.m3u8
 http://194.76.186.33:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="CsurgoTV.hu",Csurgó TV (720p)
 http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-654a2ac283595c000817e39c" tvg-id="654a2ac283595c000817e39c" tvg-logo="https://images.pluto.tv/channels/654a2ac283595c000817e39c/colorLogoPNG.png" tvg-chno="99399" group-title="Neu auf Pluto TV" , Macgyver
+https://i.mjh.nz/PlutoTV/1654a2ac283595c000817e39c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="99400" group-title="Neu auf Pluto TV" , Wicked Tuna
+https://i.mjh.nz/PlutoTV/15ad9be1be738977e2c312134-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ad9b8551b95267e225e59c1" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-chno="99405" group-title="Dokus + Wissen" , Pluto TV Explore
+https://i.mjh.nz/PlutoTV/15ad9b8551b95267e225e59c1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="99406" group-title="Entertainment" , Fluss-Monster
+https://i.mjh.nz/PlutoTV/162a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-5dde47b63585b500099f74ec" tvg-id="5dde47b63585b500099f74ec" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" tvg-chno="99407" group-title="Filme" , Pluto TV Kultfilme
+https://i.mjh.nz/PlutoTV/15dde47b63585b500099f74ec-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-61fbf91afb1b10000880dd08" tvg-id="61fbf91afb1b10000880dd08" tvg-logo="https://images.pluto.tv/channels/61fbf91afb1b10000880dd08/colorLogoPNG.png" tvg-chno="99404" group-title="Action & Crime" , Auf Achse
+https://i.mjh.nz/PlutoTV/161fbf91afb1b10000880dd08-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="99401" group-title="Western" , Rauchende Colts
+https://i.mjh.nz/PlutoTV/1638f2bc7bc363100072f02dd-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="99402" group-title="Western" , Pluto TV Western
+https://i.mjh.nz/PlutoTV/1630dd3b2605f140007e002f5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="99403" group-title="Western" , Rawhide - Tausend Meilen Staub
+https://i.mjh.nz/PlutoTV/1638f2983dcd9100008c2374d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-615c1e5ce3039400070a0547" tvg-id="615c1e5ce3039400070a0547" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" tvg-chno="99408" group-title="Filme" , MOVIEDOME
+https://i.mjh.nz/PlutoTV/1615c1e5ce3039400070a0547-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-63c9430af13a9b000786422a" tvg-id="63c9430af13a9b000786422a" tvg-logo="https://images.pluto.tv/channels/63c9430af13a9b000786422a/colorLogoPNG.png" tvg-chno="99410" group-title="Filme" , Pluto TV Kino Filme
+https://i.mjh.nz/PlutoTV/163c9430af13a9b000786422a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+
+#EXTINF:-1 channel-id="pluto-5ce40f42ba7f7f5ea9518fe1" tvg-id="5ce40f42ba7f7f5ea9518fe1" tvg-logo="https://images.pluto.tv/channels/5ce40f42ba7f7f5ea9518fe1/colorLogoPNG.png" tvg-chno="99411" group-title="Entertainment" , Ice Pilots
+https://i.mjh.nz/PlutoTV/15ce40f42ba7f7f5ea9518fe1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
 #EXTINF:-1 channel-id="pluto-5d767ae7b456c8cf265ce922" tvg-id="5d767ae7b456c8cf265ce922" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-chno="999301" group-title="Dokus + Wissen" , Pluto TV Animals
 https://i.mjh.nz/PlutoTV/15d767ae7b456c8cf265ce922-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
