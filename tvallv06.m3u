@@ -20,12 +20,6 @@ https://i.mjh.nz/SamsungTVPlus/DEBA3300042XG.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-DEBD26000020X" tvg-id="DEBD26000020X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20231115T012056SQUARE.png_20231115012056.png" tvg-chno="4007" group-title="Serien" , Baywatch
 https://i.mjh.nz/SamsungTVPlus/DEBD26000020X.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEBD1500001VJ" tvg-id="DEBD1500001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20231101T032812SQUARE.png_20231101032812.png" tvg-chno="4009" group-title="Lifestyle" , Kaminfeuer
-https://i.mjh.nz/SamsungTVPlus/DEBD1500001VJ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBD3700001YD" tvg-id="DEBD3700001YD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20231025T032900SQUARE.png_20231025032900.png" tvg-chno="4011" group-title="Unterhaltung" , X-MAS Mix
-https://i.mjh.nz/SamsungTVPlus/DEBD3700001YD.m3u8|user-agent=okhttp/4.10.0
-
 #EXTINF:-1 channel-id="samsung-DEBD30000014M" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-chno="4103" group-title="Unterhaltung" , Bares für Rares
 https://i.mjh.nz/SamsungTVPlus/DEBD30000014M.m3u8|user-agent=okhttp/4.10.0
 
@@ -68,15 +62,6 @@ https://i.mjh.nz/SamsungTVPlus/DEBC2200002E7.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-DEBC2200003Z3" tvg-id="DEBC2200003Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20230809T053743SQUARE.png_20230809053744.png" tvg-chno="4139" group-title="Unterhaltung" , Stars in Gefahr
 https://i.mjh.nz/SamsungTVPlus/DEBC2200003Z3.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEBD390000181" tvg-id="DEBD390000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20231115T012053SQUARE.png_20231115012054.png" tvg-chno="4140" group-title="Anime" , Aniverse
-https://i.mjh.nz/SamsungTVPlus/DEBD390000181.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBD11000019M" tvg-id="DEBD11000019M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD11000019M_20231101T032748SQUARE.png_20231101032748.png" tvg-chno="4141" group-title="Anime" , Naruto
-https://i.mjh.nz/SamsungTVPlus/DEBD11000019M.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAJ2900002FC" tvg-id="DEAJ2900002FC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900002FC_20231101T032746SQUARE.png_20231101032746.png" tvg-chno="4142" group-title="Anime" , Yu-Gi-Oh!
-https://i.mjh.nz/SamsungTVPlus/DEAJ2900002FC.m3u8|user-agent=okhttp/4.10.0
-
 #EXTINF:-1 channel-id="samsung-DEBD2400001PC" tvg-id="DEBD2400001PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2400001PC_20230628T012817SQUARE.png_20230628012817.png" tvg-chno="4143" group-title="Unterhaltung" , Out TV
 https://i.mjh.nz/SamsungTVPlus/DEBD2400001PC.m3u8|user-agent=okhttp/4.10.0
 
@@ -100,9 +85,6 @@ https://i.mjh.nz/SamsungTVPlus/DEBC3000003IG.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEAJ2900001NG" tvg-id="DEAJ2900001NG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900001NG_20230712T021522SQUARE.png_20230712021522.png" tvg-chno="4205" group-title="Dokus" , SPIEGEL TV Konflikte
 https://i.mjh.nz/SamsungTVPlus/DEAJ2900001NG.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBC220000422" tvg-id="DEBC220000422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20230412T042631SQUARE.png_20230412042631.png" tvg-chno="4207" group-title="Dokus" , The Wicked Tuna Channel
-https://i.mjh.nz/SamsungTVPlus/DEBC220000422.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEBA3300014CV" tvg-id="DEBA3300014CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300014CV_20230712T021520SQUARE.png_20230712021520.png" tvg-chno="4208" group-title="Dokus" , CURIOSITY Now
 https://i.mjh.nz/SamsungTVPlus/DEBA3300014CV.m3u8|user-agent=okhttp/4.10.0
@@ -145,9 +127,6 @@ https://i.mjh.nz/SamsungTVPlus/DEAJ0500423A.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEAJ32000012H" tvg-id="DEAJ32000012H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ32000012H_20231115T012116SQUARE.png_20231115012117.png" tvg-chno="4265" group-title="Natur" , Terra Mater
 https://i.mjh.nz/SamsungTVPlus/DEAJ32000012H.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAK3504503A" tvg-id="DEAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20221026T004359SQUARE.png_20221026004359.png" tvg-chno="4266" group-title="Natur" , Pluto TV Animals
-https://i.mjh.nz/SamsungTVPlus/DEAK3504503A.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEBA15000227H" tvg-id="DEBA15000227H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20220323T072117SQUARE.png_20220323072120.png" tvg-chno="4269" group-title="Natur" , One Terra
 https://i.mjh.nz/SamsungTVPlus/DEBA15000227H.m3u8|user-agent=okhttp/4.10.0
@@ -244,36 +223,6 @@ https://i.mjh.nz/SamsungTVPlus/DEBD26000034M.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEBA3300016EV" tvg-id="DEBA3300016EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20230614T005703SQUARE.png_20230614005704.png" tvg-chno="4557" group-title="Sport" , Strongman Champions League
 https://i.mjh.nz/SamsungTVPlus/DEBA3300016EV.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBA3300023IR" tvg-id="DEBA3300023IR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20220323T075159SQUARE.png_20220323075202.png" tvg-chno="4610" group-title="Kinder" , Teletubbies
-https://i.mjh.nz/SamsungTVPlus/DEBA3300023IR.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBA3300025TK" tvg-id="DEBA3300025TK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300025TK_20220824T005411SQUARE.png_20220824005411.png" tvg-chno="4613" group-title="Kinder" , SuperToons TV
-https://i.mjh.nz/SamsungTVPlus/DEBA3300025TK.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBA33000212C" tvg-id="DEBA33000212C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20231115T012051SQUARE.png_20231115012052.png" tvg-chno="4615" group-title="Kinder" , 100% Weihnachten - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/DEBA33000212C.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAJ70000561" tvg-id="DEAJ70000561" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20221026T004351SQUARE.png_20221026004351.png" tvg-chno="4616" group-title="Kinder" , SpongeBob Schwammkopf
-https://i.mjh.nz/SamsungTVPlus/DEAJ70000561.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAJ700004BT" tvg-id="DEAJ700004BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20231011T082437SQUARE.png_20231011082438.png" tvg-chno="4619" group-title="Kinder" , Teen Nick
-https://i.mjh.nz/SamsungTVPlus/DEAJ700004BT.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAJ700002N8" tvg-id="DEAJ700002N8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20221026T004347SQUARE.png_20221026004348.png" tvg-chno="4622" group-title="Kinder" , Nick Pluto TV
-https://i.mjh.nz/SamsungTVPlus/DEAJ700002N8.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEAJ700006MR" tvg-id="DEAJ700006MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700006MR_20221026T004353SQUARE.png_20221026004353.png" tvg-chno="4625" group-title="Kinder" , iCarly
-https://i.mjh.nz/SamsungTVPlus/DEAJ700006MR.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" tvg-chno="4628" group-title="Kinder" , duckTV
-https://i.mjh.nz/SamsungTVPlus/DEBC4700007JV.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBC2100001ZJ" tvg-id="DEBC2100001ZJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20230614T005718SQUARE.png_20230614005719.png" tvg-chno="4710" group-title="Musik" , Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/DEBC2100001ZJ.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-DEBD3800001QD" tvg-id="DEBD3800001QD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20231115T012106SQUARE.png_20231115012106.png" tvg-chno="4711" group-title="Musik" , Deluxe Wintertime
-https://i.mjh.nz/SamsungTVPlus/DEBD3800001QD.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-DEBC21000022L" tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" tvg-chno="4716" group-title="Musik" , Vevo Schlager Pop
 https://i.mjh.nz/SamsungTVPlus/DEBC21000022L.m3u8|user-agent=okhttp/4.10.0
