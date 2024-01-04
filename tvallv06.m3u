@@ -454,3 +454,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png" , The Asylum USA
 https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="cinedom Bud Spencer" tvg-id="cinedom bud spencer", cinedom Bud Spencer
+http://merkezmedya.xyz:8080/uv6eQpGx6McX/6HgRZ45vW5eK/2014
