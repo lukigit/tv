@@ -387,7 +387,7 @@ https://live.tv247us.com/tv247/cinemaxus.m3u8|Referer=http://tv247.us/all-channe
 https://live.tv247us.com/tv247/usanw.m3u8|Referer=http://tv247.us/all-channels/
 
 #EXTINF:-1 tvg-name="WWE NETWORK" tvg-id="WWE NETWORK", WWE NETWORK USA
-https://webudit.webhd.ru/lb/premium376/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D376&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
+http://62.210.209.138:41000/series/v52/v43/2649.mp4
 
 #EXTINF:-1 tvg-name="NHL NETWORK" tvg-id="NHL NETWORK", NHL NETWORK USA
 https://live.tv247us.com/tv247/nhl.m3u8|Referer=http://tv247.us/all-channels/
