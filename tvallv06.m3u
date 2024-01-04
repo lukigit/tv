@@ -356,6 +356,9 @@ https://webudit.webhd.ru/lb/premium44/index.m3u8|Referer=https%3A%2F%2Fweblivehd
 #EXTINF:-1 tvg-name="espnusa2" tvg-id="espnusa", ESPN 2 USA
 https://webudit.webhd.ru/lb/premium45/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D45&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
 
+#EXTINF:-1 tvg-name="espnusa3" tvg-id="espnusa", ESPN 3 USA
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19203/index.m3u8
+
 #EXTINF:-1 tvg-name="espnusa u" tvg-id="espnusa", ESPN U USA
 https://webudit.webhd.ru/lb/premium316/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D316&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
 
