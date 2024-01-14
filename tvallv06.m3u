@@ -366,7 +366,7 @@ https://webudit.webhd.ru/lb/premium308/index.m3u8|Referer=https%3A%2F%2Fwebliveh
 https://live.tv247us.com/tv247/fs2.m3u8|Referer=http://tv247.us/all-channels/
 
 #EXTINF:-1 tvg-name="AMC USA" tvg-id="AMC USA", AMC USA
-https://webudit.webhd.ru/lb/premium303/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D303&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PARAMOUNT" tvg-id="PARAMOUNT USA", PARAMOUNT USA
 https://webudit.webhd.ru/lb/premium334/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D334&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
