@@ -387,3 +387,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651e94c93
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651e951fb43b640008bfe697/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-name="Community" group-title="Neu auf Pluto TV" tvg-logo="http://images.pluto.tv/channels/6523ca21a70bf000081fe675/solidLogoPNG.png" tvg-chno="9000" tvg-id="",Community
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6523ca21a70bf000081fe675/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-id="MR BEAN CARTOON" group-title="Standart" tvg-chno="10000" , MR BEAN CARTOON
+plugin://plugin.video.vavooto/?name=MR.+BEAN
