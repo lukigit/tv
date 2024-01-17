@@ -545,5 +545,5 @@ https://r.mjh.nz/PlutoTV/5ea816a44457070007ffabc7-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-640f4f4083f589000828a544" tvg-id="640f4f4083f589000828a544" tvg-logo="https://images.pluto.tv/channels/640f4f4083f589000828a544/colorLogoPNG.png" tvg-chno="100515" group-title="Best of Pluto TV" , Pluto TV #1
 https://r.mjh.nz/PlutoTV/640f4f4083f589000828a544-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
-#EXTINF:-1 tvg-id="MR BEAN CARTOON" group-title="Standart" tvg-chno="10000" , MR BEAN CARTOON
+#EXTINF:-1 tvg-id="MR BEAN CARTOON" group-title="Standart" tvg-chno="100516" , MR BEAN CARTOON
 plugin://plugin.video.vavooto/?name=MR.+BEAN
