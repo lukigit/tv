@@ -1,9 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"
-#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="8999" group-title="Movies" , MovieSphere by Lionsgate USA
+#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="8998" group-title="Movies" , MovieSphere by Lionsgate USA
 https://r.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
-#EXTINF:-1 channel-id="pluto-620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" tvg-chno="9000" group-title="Sci-Fi" , Stargate USA
+#EXTINF:-1 channel-id="pluto-620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" tvg-chno="8999" group-title="Sci-Fi" , Stargate USA
 https://r.mjh.nz/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
+
+#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="9000" group-title="Entertainment" , Fluss-Monster
+https://r.mjh.nz/PlutoTV/62a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
 #EXTINF:-1 channel-id="pluto-654a2ac283595c000817e39c" tvg-id="654a2ac283595c000817e39c" tvg-logo="https://images.pluto.tv/channels/654a2ac283595c000817e39c/colorLogoPNG.png" tvg-chno="9001" group-title="Neu auf Pluto TV" , Macgyver
 https://r.mjh.nz/PlutoTV/654a2ac283595c000817e39c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
@@ -304,9 +307,6 @@ https://r.mjh.nz/PlutoTV/642d7e029189ce0008958af5-alt.m3u8|user-agent=okhttp/4.9
 
 #EXTINF:-1 channel-id="pluto-64c109735dc1660008a4a2dc" tvg-id="64c109735dc1660008a4a2dc" tvg-logo="https://images.pluto.tv/channels/64c109735dc1660008a4a2dc/colorLogoPNG.png" tvg-chno="100231" group-title="Entertainment" , Top Gear
 https://r.mjh.nz/PlutoTV/64c109735dc1660008a4a2dc-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
-
-#EXTINF:-1 channel-id="pluto-62a0b2aff4cf470007e47e29" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-chno="100232" group-title="Entertainment" , Fluss-Monster
-https://r.mjh.nz/PlutoTV/62a0b2aff4cf470007e47e29-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
 #EXTINF:-1 channel-id="pluto-644257fe7cb4b100081ed874" tvg-id="644257fe7cb4b100081ed874" tvg-logo="https://images.pluto.tv/channels/644257fe7cb4b100081ed874/colorLogoPNG.png" tvg-chno="100234" group-title="Entertainment" , Hell's Kitchen
 https://r.mjh.nz/PlutoTV/644257fe7cb4b100081ed874-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
