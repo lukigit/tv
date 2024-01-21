@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
-#EXTINF:-1 tvg-id="updater" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/File:Minimalist_info_Icon.png",UPDATE: AMAZON VID,WWE,NHL SAMSUNGTV USA etc
-plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+ATLANTIC+A
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
@@ -119,8 +117,6 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+1
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo
 plugin://plugin.video.vavooto/?name=GEO
-#EXTINF:-1 tvg-id="BILD TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/270px-Bild_%28Fernsehsender%29_logo.svg.png",BILD TV
-plugin://plugin.video.vavooto/?name=BILD TV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
