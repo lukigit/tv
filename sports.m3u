@@ -5,6 +5,17 @@ plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=DAZN+1
 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png" tvg-chno="1100516" ,DAZN 2
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=DAZN+2
 
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
+
 #EXTINF:-1 tvg-id="DE: Magenta Sport" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100535" ,Magenta Sport
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
 #EXTINF:-1 tvg-id="DE: Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100536" ,Magenta Sport 1
@@ -47,25 +58,25 @@ plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+18
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png" tvg-chno="1100554" ,Sky Bundesliga
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/524.png" tvg-chno="1100555" ,Sky Bundesliga 1
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/516.png" tvg-chno="1100556" ,Sky Bundesliga 2
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA2
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+2
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/526.png" tvg-chno="1100557" ,Sky Bundesliga 3
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA3
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+3
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/515.png" tvg-chno="1100558" ,Sky Bundesliga 4
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA4
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+4
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/523.png" tvg-chno="1100559" ,Sky Bundesliga 5
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA5
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+5
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1468.png" tvg-chno="1100560" ,Sky Bundesliga 6
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA6
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+6
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1469.png" tvg-chno="1100561" ,Sky Bundesliga 7
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA7
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+7
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1470.png" tvg-chno="1100562" ,Sky Bundesliga 8
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA8
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+8
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1471.png" tvg-chno="1100563" ,Sky Bundesliga 9
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA9
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png" tvg-chno="1100564" ,Sky Bundesliga 10
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA10
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png" tvg-chno="1100565" ,Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY SPORT 1
 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png" tvg-chno="1100566" ,Sky Sport 2
