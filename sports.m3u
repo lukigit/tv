@@ -5,43 +5,43 @@ plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=DAZN+1
 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png" tvg-chno="1100516" ,DAZN 2
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=DAZN+2
 
-#EXTINF:-1 tvg-id="DE: Magenta Sport" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100535" ,Magenta Sport
+#EXTINF:-1 tvg-id="DE: Magenta Sport" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100535" ,Magenta Sport
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
-#EXTINF:-1 tvg-id="DE: Magenta Sport 1" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100536" ,Magenta Sport 1
+#EXTINF:-1 tvg-id="DE: Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100536" ,Magenta Sport 1
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-id="DE: Magenta Sport 2" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100537" ,Magenta Sport 2
+#EXTINF:-1 tvg-id="DE: Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100537" ,Magenta Sport 2
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="DE: Magenta Sport 3" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100538" ,Magenta Sport 3
+#EXTINF:-1 tvg-id="DE: Magenta Sport 3" group-title="Sport" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100538" ,Magenta Sport 3
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-id="DE: Magenta Sport 4" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100539" ,Magenta Sport 4
+#EXTINF:-1 tvg-id="DE: Magenta Sport 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100539" ,Magenta Sport 4
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="DE: Magenta Sport 5" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100540" ,Magenta Sport 5
+#EXTINF:-1 tvg-id="DE: Magenta Sport 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100540" ,Magenta Sport 5
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+5
-#EXTINF:-1 tvg-id="DE: Magenta Sport 6" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100541" ,Magenta Sport 6
+#EXTINF:-1 tvg-id="DE: Magenta Sport 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100541" ,Magenta Sport 6
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+6
-#EXTINF:-1 tvg-id="DE: Magenta Sport 7" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100542" ,Magenta Sport 7
+#EXTINF:-1 tvg-id="DE: Magenta Sport 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100542" ,Magenta Sport 7
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+7
-#EXTINF:-1 tvg-id="DE: Magenta Sport 8" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100543" ,Magenta Sport 8
+#EXTINF:-1 tvg-id="DE: Magenta Sport 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100543" ,Magenta Sport 8
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+8
-#EXTINF:-1 tvg-id="DE: Magenta Sport 9" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100544" ,Magenta Sport 9
+#EXTINF:-1 tvg-id="DE: Magenta Sport 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100544" ,Magenta Sport 9
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-id="DE: Magenta Sport 10" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100545" ,Magenta Sport 10
+#EXTINF:-1 tvg-id="DE: Magenta Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100545" ,Magenta Sport 10
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+10
-#EXTINF:-1 tvg-id="DE: Magenta Sport 11" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100546" ,Magenta Sport 11
+#EXTINF:-1 tvg-id="DE: Magenta Sport 11" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100546" ,Magenta Sport 11
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+11
-#EXTINF:-1 tvg-id="DE: Magenta Sport 12" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100547" ,Magenta Sport 12
+#EXTINF:-1 tvg-id="DE: Magenta Sport 12" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100547" ,Magenta Sport 12
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+12
-#EXTINF:-1 tvg-id="DE: Magenta Sport 13" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100548" ,Magenta Sport 13
+#EXTINF:-1 tvg-id="DE: Magenta Sport 13" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100548" ,Magenta Sport 13
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+13
-#EXTINF:-1 tvg-id="DE: Magenta Sport 14" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100549" ,Magenta Sport 14
+#EXTINF:-1 tvg-id="DE: Magenta Sport 14" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100549" ,Magenta Sport 14
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+14
-#EXTINF:-1 tvg-id="DE: Magenta Sport 15" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100550" ,Magenta Sport 15
+#EXTINF:-1 tvg-id="DE: Magenta Sport 15" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100550" ,Magenta Sport 15
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+15
-#EXTINF:-1 tvg-id="DE: Magenta Sport 16" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100551" ,Magenta Sport 16
+#EXTINF:-1 tvg-id="DE: Magenta Sport 16" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100551" ,Magenta Sport 16
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+16
-#EXTINF:-1 tvg-id="DE: Magenta Sport 17" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100552" ,Magenta Sport 17
+#EXTINF:-1 tvg-id="DE: Magenta Sport 17" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100552" ,Magenta Sport 17
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+17
-#EXTINF:-1 tvg-id="DE: Magenta Sport 18" group-title="Sport" tvg-logo="https://de.wikipedia.org/wiki/Datei:Magenta_Sport_Logo_2022.svg" tvg-chno="1100553" ,Magenta Sport 18
+#EXTINF:-1 tvg-id="DE: Magenta Sport 18" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100553" ,Magenta Sport 18
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAGENTA+SPORT+18
 
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png" tvg-chno="1100554" ,Sky Bundesliga
