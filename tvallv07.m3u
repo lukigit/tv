@@ -23,6 +23,9 @@ https://r.mjh.nz/PlutoTV/630dd3b2605f140007e002f5-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="9005" group-title="Western" , Rawhide - Tausend Meilen Staub
 https://r.mjh.nz/PlutoTV/638f2983dcd9100008c2374d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
+#EXTINF:-1 channel-id="pluto-6565fad6c917a50008484895" tvg-id="6565fad6c917a50008484895" tvg-logo="https://images.pluto.tv/channels/6565fad6c917a50008484895/colorLogoPNG.png" tvg-chno="9005" group-title="Neu auf Pluto TV" , Der Sentinel – Im Auge des Jägers
+https://r.mjh.nz/PlutoTV/6565fad6c917a50008484895-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
 #EXTINF:-1 channel-id="pluto-63c9430af13a9b000786422a" tvg-id="63c9430af13a9b000786422a" tvg-logo="https://images.pluto.tv/channels/63c9430af13a9b000786422a/colorLogoPNG.png" tvg-chno="9006" group-title="Filme" , Pluto TV Kino Filme
 https://r.mjh.nz/PlutoTV/63c9430af13a9b000786422a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
