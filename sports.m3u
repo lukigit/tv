@@ -7,13 +7,13 @@ plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=DAZN+2
 
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
-#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 2
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
-#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 3
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29
-#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 4
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
-#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 1
+#EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100516" , SKY SPORT AUSTRIA 5
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
 
 #EXTINF:-1 tvg-id="DE: Magenta Sport" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/320px-Magenta_Sport_Logo_2022.svg.png" tvg-chno="1100535" ,Magenta Sport
