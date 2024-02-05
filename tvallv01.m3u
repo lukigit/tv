@@ -204,7 +204,7 @@ plugin://plugin.video.vavooto/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 tvg-id="RTL Crime" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1444.png",RTL Crime
-plugin://plugin.video.vavooto/?name=RTL+CRIME
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=RTL+CRIME+HD%2B
 #EXTINF:-1 tvg-id="RTL Living" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1446.png",RTL Living
 plugin://plugin.video.vavooto/?name=RTL+LIVING
 #EXTINF:-1 tvg-id="NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
@@ -227,8 +227,6 @@ plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100",Vox UP
 plugin://plugin.video.vavooto/?name=VOX+UP
-#EXTINF:-1 tvg-id="ServusTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV deutschland
-plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="sixx" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
