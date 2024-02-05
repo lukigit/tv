@@ -458,21 +458,21 @@ https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png" , The Asylum USA
 https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish tv 🇧🇷
+#EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish tv
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV 🇮🇹 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png",Italian Fishing TV
 https://bit.ly/3FJ3iBV?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png",Fishing 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png",Fishing
 https://bit.ly/Fishing_inspiration_m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp",Wired2Fish 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp",Wired2Fish
 https://bit.ly/3SzxVBt?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DarcizzleFishing.png",Darcizzle Offshore Fishingᴴᴰ 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DarcizzleFishing.png",Darcizzle Offshore Fishing
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
 https://bit.ly/48Wx5ny?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png",PursuitUp 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png",PursuitUp
 https://bit.ly/47BQfOP?profile=inspirationlivetv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TVᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HuntChannel.png",Hunt Channel 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HuntChannel.png",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
