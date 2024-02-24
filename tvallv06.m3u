@@ -389,9 +389,6 @@ https://live.tv247us.com/tv247/usanw.m3u8|Referer=http://tv247.us/all-channels/
 #EXTINF:-1 tvg-name="WWE NETWORK" tvg-id="WWE NETWORK", WWE NETWORK USA
 http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 
-#EXTINF:-1 tvg-name="WWE NETWORK" tvg-id="WWE NETWORK", WWE 24/7 WRESTLEMANIA USA
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="NHL NETWORK" tvg-id="NHL NETWORK", NHL NETWORK USA
 https://live.tv247us.com/tv247/nhl.m3u8|Referer=http://tv247.us/all-channels/
 
