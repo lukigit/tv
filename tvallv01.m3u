@@ -56,13 +56,13 @@ plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=MAX+KINO+COLLECTION
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel
 plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",WarnerTV Comedy
-plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png",WarnerTV Film
-plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",WarnerTV Serie
-plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png",Kinowelt
-plugin://plugin.video.vavooto/?name=KINOWELT
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=KINOWELT
 #EXTINF:-1 tvg-id="MOVIES CH" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg",MOVIES CH
 plugin://plugin.video.vavooto/?name=MOVIES CH
 #EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
