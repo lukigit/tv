@@ -2,12 +2,6 @@
 #EXTINF:-1 channel-id="samsung-DEBA1000003IM" tvg-id="DEBA1000003IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png" tvg-chno="4003" group-title="News" , Euronews Live
 https://i.mjh.nz/SamsungTVPlus/DEBA1000003IM.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-ITBD4400001X5" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png"  , DMAX ITALIA
-https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-ITBD4400010WK" tvg-id="ITBD4400010WK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400010WK_20231213T033219SQUARE.png_20231213033220.png"  , WarnerBros TV Italia
-https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8|user-agent=okhttp/4.10.0
-
 #EXTINF:-1 channel-id="samsung-DEAJ3500002EO" tvg-id="DEAJ3500002EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20230926T032244SQUARE.png_20230926032244.png" tvg-chno="4004" group-title="Filme" , Komödien - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/DEAJ3500002EO.m3u8|user-agent=okhttp/4.10.0
 
