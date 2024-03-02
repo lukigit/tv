@@ -374,6 +374,36 @@ https://bit.ly/3CmcVEq?profile=inspirationlivetv.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT" tvg-id="PARAMOUNT USA", PARAMOUNT USA
 https://webudit.webhd.ru/lb/premium334/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D334&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
 
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Action USA
+http://77.137.35.165:8000/play/a079/index.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Horror USA
+http://77.137.35.165:8000/play/a08l/index.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="FXx.us" tvg-name="" group-title="USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg",FXx 🇺🇸
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="FX.us" tvg-name="" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX /2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27493&amp;f=.ch
+
+#EXTINF:-1 format="auto" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbosignature.png",HBO Signature usa
+http://livex.pop-app.live/s4n/poptv/HboSignature.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbosignature.png",HBO Signature usa/2
+http://europass.site:8080/live/sebastianbenitezchapatan10/CDCBpNCuY7/53240.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="HBOFamily.us" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbofamily.png",HBO Family USA
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
+#EXTINF:-1 format="auto" tvg-id="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO East USA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12743.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="HBO2.us" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2 USA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12796.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="HBO2.us" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbo2.png",HBO 2 USA /2
+http://170.254.18.106/HBO2/index.m3u8
+
 #EXTINF:-1 tvg-name="HBO USA" tvg-id="HBO USA", HBO USA
 https://live.tv247us.com/tv247/hbo.m3u8|Referer=http://tv247.us/all-channels/
 
@@ -388,6 +418,9 @@ https://live.tv247us.com/tv247/cinemaxus.m3u8|Referer=http://tv247.us/all-channe
 
 #EXTINF:-1 tvg-name="USA NETWORK" tvg-id="USA NETWORK", USA NETWORK
 https://live.tv247us.com/tv247/usanw.m3u8|Referer=http://tv247.us/all-channels/
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ActionHollywoodMovies.png",Action Hollywood Movies USA
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WWE NETWORK" tvg-id="WWE NETWORK", WWE NETWORK USA
 http://198.16.100.90:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
