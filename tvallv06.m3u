@@ -380,10 +380,10 @@ http://77.137.35.165:8000/play/a079/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="USA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/netflix.svg",Netflix Horror USA
 http://77.137.35.165:8000/play/a08l/index.m3u8
 
-#EXTINF:-1 format="auto" tvg-id="FXx.us" tvg-name="" group-title="USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg",FXx 🇺🇸
+#EXTINF:-1 format="auto" tvg-id="FXx.us" tvg-name="" group-title="USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg",FXx USA
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 
-#EXTINF:-1 format="auto" tvg-id="FX.us" tvg-name="" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX /2
+#EXTINF:-1 format="auto" tvg-id="FX.us" tvg-name="" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX USA/2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27493&amp;f=.ch
 
 #EXTINF:-1 format="auto" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbosignature.png",HBO Signature usa
