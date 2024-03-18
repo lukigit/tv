@@ -1,4 +1,25 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"
+#EXTINF:-1 channel-id="pluto-655ca4b94261ca00080b38d2" tvg-id="655ca4b94261ca00080b38d2" tvg-logo="https://images.pluto.tv/channels/655ca4b94261ca00080b38d2/colorLogoPNG.png" tvg-chno="9007" group-title="Action & Crime" , Pensacola – Flügel aus Stahl
+https://r.mjh.nz/PlutoTV/655ca4b94261ca00080b38d2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65a67d200c7ff50008cb131a" tvg-id="65a67d200c7ff50008cb131a" tvg-logo="https://images.pluto.tv/channels/65a67d200c7ff50008cb131a/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , Star Trek: Deep Space Nine
+https://r.mjh.nz/PlutoTV/65a67d200c7ff50008cb131a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65b923f90cb1a100088a03ab" tvg-id="65b923f90cb1a100088a03ab" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , Terra Mater Wild
+https://r.mjh.nz/PlutoTV/65b923f90cb1a100088a03ab-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65a7d99f4a10d800086083a9" tvg-id="65a7d99f4a10d800086083a9" tvg-logo="https://images.pluto.tv/channels/65a7d99f4a10d800086083a9/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , Assassination Classroom
+https://r.mjh.nz/PlutoTV/65a7d99f4a10d800086083a9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65a67c494a10d800085cab06" tvg-id="65a67c494a10d800085cab06" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , Drake & Josh
+https://r.mjh.nz/PlutoTV/65a67c494a10d800085cab06-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65c33f833ef47d00084f47ad" tvg-id="65c33f833ef47d00084f47ad" tvg-logo="https://images.pluto.tv/channels/65c33f833ef47d00084f47ad/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , Monster Jam
+https://r.mjh.nz/PlutoTV/65c33f833ef47d00084f47ad-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64eddce19001910008df22b8" tvg-id="64eddce19001910008df22b8" tvg-logo="https://images.pluto.tv/channels/64eddce19001910008df22b8/colorLogoPNG.png" tvg-chno="9007" group-title="Neu auf Pluto TV" , F.B.I. Files
+https://r.mjh.nz/PlutoTV/64eddce19001910008df22b8-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="8998" group-title="Movies" , MovieSphere by Lionsgate USA
 https://r.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
