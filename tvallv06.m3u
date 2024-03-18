@@ -434,6 +434,29 @@ https://live.tv247us.com/tv247/nhl.m3u8|Referer=http://tv247.us/all-channels/
 #EXTINF:-1 tvg-name="NHL NETWORK" tvg-id="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL USA
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 1 USA
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 2 USA
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 3 USA
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 4 USA
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 5 USA
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports USA
+https://soccer.freesportstime.com/live/stream_5.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 6 USA
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 7 USA
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 8 USA
+https://soccer.freesportstime.com/live/stream_9.m3u8
+#EXTINF:-1 group-title="Word Sports" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png",Only Live Sports 9 USA
+https://hls.streambtw.com/live/stream_9.m3u8
+
+
 #EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20231229T003235SQUARE.png_20231229003236.png"  , Movie Favorites USA
 https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8|user-agent=okhttp/4.10.0
 
