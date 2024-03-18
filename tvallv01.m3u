@@ -273,6 +273,8 @@ plugin://plugin.video.vavooto/?name=ZDF+NEO
 plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-id="DMAX.it" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX ITALIA
 plugin://plugin.video.aguiavavoo/?action=&group=Italy&name=DMAX
+#EXTINF:-1 tvg-id="DF1 HD" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DF1_Logo_2024.svg/450px-DF1_Logo_2024.svg.png",DF1 HD
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/41ab3f1e437a48a7a0f2bd8c01722856/index.mpd
 
 #EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1 / Schweiz
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
