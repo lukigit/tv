@@ -154,15 +154,15 @@ plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.vavooto/?name=ATV
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=ATV
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
-plugin://plugin.video.vavooto/?name=ATV+2
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=ATV+2
 #EXTINF:-1 tvg-id="PULS 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
-plugin://plugin.video.vavooto/?name=PULS+4
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=PULS+4
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
-plugin://plugin.video.vavooto/?name=ORF+1
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
-plugin://plugin.video.vavooto/?name=ORF+2
+plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=ORF+2
 #EXTINF:-1 tvg-name="ORF III" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1 tvg-id="oe24.TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/435.png",OE24 TV
