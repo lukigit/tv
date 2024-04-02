@@ -117,17 +117,7 @@ plugin://plugin.video.vavooto/?name=SPORTDIGITALL+FUSSBALL
 #EXTINF:-1 tvg-id="DE: SPORT1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" tvg-chno="1100581" ,Sport 1
 plugin://plugin.video.vavooto/?name=SPORT1
 
-#EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100582" ,BEIN SPORTS TURKYE 1
-plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1
 
-#EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100583" ,BEIN SPORTS TURKYE 2
-plugin://plugin.video.vavooto/?name=BEIN+SPORTS+2
-
-#EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100584" ,BEIN SPORTS TURKYE 3
-plugin://plugin.video.vavooto/?name=BEIN+SPORTS+3
-
-#EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100585" ,BEIN SPORTS TURKYE 4
-plugin://plugin.video.vavooto/?name=BEIN+SPORTS+4
 
 #EXTINF:-1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-chno="5000" group-title="Sports" , CBS Sports USA
 https://live.tv247us.com/tv247/cbsn.m3u8|Referer=http://tv247.us/all-channels/
