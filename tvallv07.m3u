@@ -1,4 +1,18 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"
+
+#EXTINF:-1 channel-id="pluto-65ae47337bdc8d000853f1fd" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-chno="1" group-title="Neu auf Pluto TV" , Die Schöne und das Biest
+https://r.mjh.nz/PlutoTV/65ae47337bdc8d000853f1fd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65b38e310d9ab400082bdec2" tvg-id="65b38e310d9ab400082bdec2" tvg-logo="https://images.pluto.tv/channels/65b38e310d9ab400082bdec2/colorLogoPNG.png" tvg-chno="2" group-title="Neu auf Pluto TV" , Wings – Die Überflieger
+https://r.mjh.nz/PlutoTV/65b38e310d9ab400082bdec2-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-634fe45d5c0beb0007cd7571" tvg-id="634fe45d5c0beb0007cd7571" tvg-logo="https://images.pluto.tv/channels/634fe45d5c0beb0007cd7571/colorLogoPNG.png" tvg-chno="3" group-title="Neu auf Pluto TV" , Reich und Schön
+https://r.mjh.nz/PlutoTV/634fe45d5c0beb0007cd7571-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65b9268fc798e800085add89" tvg-id="65b9268fc798e800085add89" tvg-logo="https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png" tvg-chno="4" group-title="Neu auf Pluto TV" , SPIEGEL TV Konflikte
+https://r.mjh.nz/PlutoTV/65b9268fc798e800085add89-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+
 #EXTINF:-1 channel-id="pluto-655ca4b94261ca00080b38d2" tvg-id="655ca4b94261ca00080b38d2" tvg-logo="https://images.pluto.tv/channels/655ca4b94261ca00080b38d2/colorLogoPNG.png" tvg-chno="9007" group-title="Action & Crime" , Pensacola – Flügel aus Stahl
 https://r.mjh.nz/PlutoTV/655ca4b94261ca00080b38d2-alt.m3u8
 
