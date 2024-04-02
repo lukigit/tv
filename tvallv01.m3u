@@ -274,6 +274,24 @@ plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.de",Rakuten Action Movies Germany 
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.at",Rakuten Comedy Movies Austria 
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.de",Rakuten Comedy Movies Germany 
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.de",Rakuten Spotlight Germany 
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten Top Free Germany 
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Shows Austria 
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Shows Germany 
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us",Rakuten Revry 
+https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1 / Schweiz
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/5QFZ05B.png" tvg-id="TVO.ch" group-title="Switzerland",TVO / Schweiz
