@@ -281,7 +281,10 @@ https://z88.ubtvfans.com/live/rx3/1191/ba4c8fb5cc6cd69a3496bc3317edd557/index.m3
 #EXTINF:-1 tvg-name="" tvg-id=" tvg-id="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE Network usa II
 http://193.58.152.27:7788/WWE/index.m3u8
 
-#EXTINF:-1 tvg-name="NHL NETWORK" tvg-id="NHL NETWORK", NHL NETWORK USA
+#EXTINF:-1 tvg-name="NHL NETWORK1" tvg-id="NHL NETWORK1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/220px-NHL_Network_2012.svg.png" , NHL NETWORK USA 1
+https://z88.ubtvfans.com/live/rx3/1534/2ab9bfaccbaf66c8ff88b0b9e0944268/index.m3u8
+
+#EXTINF:-1 tvg-name="NHL NETWORK2" tvg-id="NHL NETWORK2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/220px-NHL_Network_2012.svg.png" , NHL NETWORK USA 2
 https://live.tv247us.com/tv247/nhl.m3u8|Referer=http://tv247.us/all-channels/
 
 #EXTINF:-1 tvg-name="NHL NETWORK" tvg-id="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL USA
