@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="ALF TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svg/450px-Alf.svg.png" tvg-chno="9001" ,ALF TV
-plugin://plugin.video.youtube/play/?v=wyNxxLJpM7E
+plugin://plugin.video.youtube/play/?v=4WAoe0NNeGM
 
 #EXTINF:-1 channel-id="pluto-65ae47337bdc8d000853f1fd" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-chno="100102" group-title="Neu auf Pluto TV" , Die Schöne und das Biest
 https://r.mjh.nz/PlutoTV/65ae47337bdc8d000853f1fd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
