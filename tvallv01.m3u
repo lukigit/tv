@@ -313,6 +313,10 @@ https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RUSSIA TODAY", RUSSIA TODAY NEWS / RU
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 tvg-id="RUSSIA TODAY", RUSSIA TODAY DOCUMENTARY / RU
+https://z88.ubtvfans.com/live/rx4/2611/322cc5ef9af6f8a91f8745b188bb04c2/index.m3u8
+#EXTINF:-1 tvg-id="CGTN Documentary", CGTN Documentary / CHINA
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100514" , SKY SPORT AUSTRIA 1
