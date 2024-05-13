@@ -311,6 +311,8 @@ https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch",Couleur 3 / FRANCE
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RUSSIA TODAY", RUSSIA TODAY NEWS / RU
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100514" , SKY SPORT AUSTRIA 1
