@@ -4,6 +4,43 @@
 #EXTINF:-1 tvg-id="ALF TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svg/450px-Alf.svg.png" tvg-chno="9001" ,ALF TV
 plugin://plugin.video.youtube/play/?v=4WAoe0NNeGM
 
+#EXTINF:-1 channel-id="pluto-65a67d7d33ea86000831a21d" tvg-id="65a67d7d33ea86000831a21d" tvg-logo="https://images.pluto.tv/channels/65a67d7d33ea86000831a21d/colorLogoPNG.png" tvg-chno="100102" group-title="Neu auf Pluto TV" , Schitt's creek
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65a67d7d33ea86000831a21d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65a67dd13af63d0008257f17" tvg-id="65a67dd13af63d0008257f17" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" tvg-chno="100102" group-title="Neu auf Pluto TV" , 90210
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65a67dd13af63d0008257f17-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-655ca57e4261ca00080b3a04" tvg-id="655ca57e4261ca00080b3a04" tvg-logo="https://images.pluto.tv/channels/655ca57e4261ca00080b3a04/colorLogoPNG.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , Anger Management
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/655ca57e4261ca00080b3a04-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65a67c7a07e03a00088de834" tvg-id="65a67c7a07e03a00088de834" tvg-logo="https://images.pluto.tv/channels/65a67c7a07e03a00088de834/colorLogoPNG.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , Nurse Jackie
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65a67c7a07e03a00088de834-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65dde5848145cb00083277f6" tvg-id="65dde5848145cb00083277f6" tvg-logo="https://images.pluto.tv/missing.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , Kultkrimi: Derrick
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65dde5848145cb00083277f6-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65dde5ef28730900089af7cf" tvg-id="65dde5ef28730900089af7cf" tvg-logo="https://images.pluto.tv/missing.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , KultKrimi: Der Alte
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65dde5ef28730900089af7cf-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65dde626ec9fda0008b3dc89" tvg-id="65dde626ec9fda0008b3dc89" tvg-logo="https://images.pluto.tv/missing.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , KultKrimi: Der Kommissar
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65dde626ec9fda0008b3dc89-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65819f14b9adc4000813ee39" tvg-id="65819f14b9adc4000813ee39" tvg-logo="https://images.pluto.tv/channels/65819f14b9adc4000813ee39/colorLogoPNG.png" tvg-chno="100200" group-title="Neu auf Pluto TV" , Familie Dr. Kleist
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65819f14b9adc4000813ee39-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+#EXTINF:-1 channel-id="pluto-65f9b2dc0d45610008505eac" tvg-id="65f9b2dc0d45610008505eac" tvg-logo="https://images.pluto.tv/channels/65f9b2dc0d45610008505eac/colorLogoPNG.png" tvg-chno="100200" group-title="Sport" , Realmadrid TV
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65f9b2dc0d45610008505eac-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
+
 #EXTINF:-1 channel-id="pluto-65ae47337bdc8d000853f1fd" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-chno="100102" group-title="Neu auf Pluto TV" , Die Schöne und das Biest
 https://r.mjh.nz/PlutoTV/65ae47337bdc8d000853f1fd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
