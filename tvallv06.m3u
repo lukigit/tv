@@ -2,13 +2,13 @@
 #EXTINF:-1 channel-id="samsung-DEAK0500449A" tvg-id="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20221123T010236SQUARE.png_20221123010237.png" tvg-chno="9004" group-title="Filme" , Grjngo
 https://i.mjh.nz/SamsungTVPlus/DEAK0500449A.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEBC47000055Z" tvg-id="DEBC47000055Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC47000055Z_20240117T032634SQUARE.png_20240117032635.png" tvg-chno="4112" group-title="Unterhaltung" , Hell's Kitchen
+#EXTINF:-1 channel-id="samsung-DEBC47000055Z" tvg-id="DEBC47000055Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC47000055Z_20240117T032634SQUARE.png_20240117032635.png" group-title="Unterhaltung" , Hell's Kitchen
 https://i.mjh.nz/SamsungTVPlus/DEBC47000055Z.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEAK3504508A" tvg-id="DEAK3504508A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20230809T053737SQUARE.png_20230809053738.png" tvg-chno="4118" group-title="Serien" , Pluto TV Sitcoms
+#EXTINF:-1 channel-id="samsung-DEAK3504508A" tvg-id="DEAK3504508A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20230809T053737SQUARE.png_20230809053738.png" group-title="Serien" , Pluto TV Sitcoms
 https://i.mjh.nz/SamsungTVPlus/DEAK3504508A.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-DEAJ700008WL" tvg-id="DEAJ700008WL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" tvg-chno="4210" group-title="Dokus" , Pluto TV Paranormal
+#EXTINF:-1 channel-id="samsung-DEAJ700008WL" tvg-id="DEAJ700008WL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" group-title="Dokus" , Pluto TV Paranormal
 https://i.mjh.nz/SamsungTVPlus/DEAJ700008WL.m3u8|user-agent=okhttp/4.10.0
 
 
