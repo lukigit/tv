@@ -40,6 +40,10 @@ https://r.mjh.nz/PlutoTV/65819f14b9adc4000813ee39-alt.m3u8|user-agent=okhttp/4.9
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://r.mjh.nz/PlutoTV/65f9b2dc0d45610008505eac-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
+#EXTINF:-1 channel-id="pluto-6509bb783a0d700008c700aa" tvg-id="6509bb783a0d700008c700aa" tvg-logo="https://images.pluto.tv/channels/6509bb783a0d700008c700aa/colorLogoPNG.png" tvg-chno="100200" group-title="Sport" , DAZN x Pluto TV Fussballshow
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/6509bb783a0d700008c700aa-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
+
 
 #EXTINF:-1 channel-id="pluto-65ae47337bdc8d000853f1fd" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-chno="100102" group-title="Neu auf Pluto TV" , Die Schöne und das Biest
 https://r.mjh.nz/PlutoTV/65ae47337bdc8d000853f1fd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
