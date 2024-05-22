@@ -97,6 +97,10 @@ https://r.mjh.nz/PlutoTV/61fbf91afb1b10000880dd08-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="9003" group-title="Western" , Rauchende Colts
 https://r.mjh.nz/PlutoTV/638f2bc7bc363100072f02dd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
+#EXTINF:-1 channel-id="pluto-65ef0f9d2873090008be19df" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-chno="9004" group-title="Neu auf Pluto TV" , Pluto TV  John Wayne
+#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
+https://r.mjh.nz/PlutoTV/65ef0f9d2873090008be19df-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+
 #EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Pluto TV Western
 https://r.mjh.nz/PlutoTV/630dd3b2605f140007e002f5-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=85.214.132.117
 
