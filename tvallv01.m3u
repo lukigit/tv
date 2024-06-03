@@ -118,7 +118,7 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo
-plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=GEO+TV
+plugin://plugin.video.babau/?action=&group=Germany&name=GEO+TV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.babau/?action=&group=Germany&name=HEIMAT+KANAL
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
@@ -234,7 +234,7 @@ plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="sixx" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-id="Sony Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
-plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SONY+CHANNEL+HD%2B
+plugin://plugin.video.babau/?action=&group=Germany&name=SONY+CHANNEL+HD%2B
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
@@ -430,7 +430,7 @@ plugin://plugin.video.babau/?action=&group=Germany&name=SKY BUNDESLIGA8
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1471.png" tvg-chno="1100563" ,Sky Bundesliga 9
 plugin://plugin.video.babau/?action=&group=Germany&name=SKY BUNDESLIGA9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png" tvg-chno="1100564" ,Sky Bundesliga 10
-plugin://plugin.video.aguiavavoo/?action=&group=Germany&name=SKY BUNDESLIGA10
+plugin://plugin.video.babau/?action=&group=Germany&name=SKY BUNDESLIGA10
 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png" tvg-chno="1100565" ,Sky Sport 1
 plugin://plugin.video.babau/?action=&group=Germany&name=SKY SPORT 1
 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png" tvg-chno="1100566" ,Sky Sport 2
