@@ -101,6 +101,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="Krone Hit TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1247.png",Krone Hit Musik TV
 plugin://plugin.video.vavooto/?name=KRONE+HIT+TV
+#EXTINF:-1 tvg-name="Ö3-VisualRadio" tvg-id="oe3.at" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Ö3-VisualRadio
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 #EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
 plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
@@ -153,6 +155,8 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ATV
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
@@ -321,6 +325,8 @@ https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #EXTINF:-1 tvg-id="RUSSIA TODAY", RUSSIA TODAY DOCUMENTARY / RU
 https://z88.ubtvfans.com/live/rx4/2611/322cc5ef9af6f8a91f8745b188bb04c2/index.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle (EN)" tvg-id="DeutscheWelleEN.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (EN)
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary", CGTN Documentary / CHINA
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
