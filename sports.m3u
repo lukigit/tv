@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100582" ,BEIN SPORTS TURKYE 1
-plugin://plugin.video.aguiavavoo/?action=&group=Turkey&name=BEIN+SPORTS+1
+plugin://plugin.video.BauBauVavoo/?action=&group=Turkey&name=BEIN+SPORTS+1
 
 #EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100583" ,BEIN SPORTS TURKYE 2
-plugin://plugin.video.aguiavavoo/?action=&group=Turkey&name=BEIN+SPORTS+2
+plugin://plugin.video.BauBauVavoo/?action=&group=Turkey&name=BEIN+SPORTS+2
 
 #EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100584" ,BEIN SPORTS TURKYE 3
-plugin://plugin.video.aguiavavoo/?action=&group=Turkey&name=BEIN+SPORTS+3
+plugin://plugin.video.BauBauVavoo/?action=&group=Turkey&name=BEIN+SPORTS+3
 
 #EXTINF:-1 tvg-id="DE: BEIN SPORTS TURKYE 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/330px-BeIN_Sports_logo_%282017%29.png" tvg-chno="1100585" ,BEIN SPORTS TURKYE 4
-plugin://plugin.video.aguiavavoo/?action=&group=Turkey&name=BEIN+SPORTS+4
+plugin://plugin.video.BauBauVavoo/?action=&group=Turkey&name=BEIN+SPORTS+4
