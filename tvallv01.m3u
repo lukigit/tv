@@ -46,7 +46,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AMAZON+PRIME+VIDEO
 #EXTINF:-1 tvg-id="FILMAX HD" group-title="Standart" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1082-filmax-hd.png", FILMAX HD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CINE+MAX+JURASSIC+PARK
 #EXTINF:-1 tvg-id="MAX KINO" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png",Max Kino
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAXKINO
 #EXTINF:-1 tvg-id="MAX KINO 2" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png",Max Kino 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+2
 #EXTINF:-1 tvg-id="MAX KINO 3" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png",Max Kino 3
@@ -124,7 +124,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GEO+TV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HEIMAT+KANAL
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
-plugin://plugin.video.babauvavoo/?action=&group=Germany&name=HISTORY
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HISTORY
 #EXTINF:-1 tvg-id="HR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png",HR
 plugin://plugin.video.vavooto/?name=HR
 #EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png",Junior
