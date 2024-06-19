@@ -448,7 +448,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
 
 #EXTINF:-1 tvg-name="" tvg-id=" tvg-id="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE Network usa II
-http://193.58.152.27:7788/WWE/index.m3u8
+plugin://plugin.video.BauBauVavoo/?action=&group=Italy&name=WWE+CHANNEL
 
 #EXTINF:-1 tvg-name="NHL NETWORK1" tvg-id="NHL NETWORK1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/220px-NHL_Network_2012.svg.png" , NHL NETWORK USA 1
 https://z88.ubtvfans.com/live/rx3/1534/2ab9bfaccbaf66c8ff88b0b9e0944268/index.m3u8
