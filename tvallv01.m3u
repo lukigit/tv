@@ -39,6 +39,8 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+FAMILY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SERIEN+%26+SHOWS
 #EXTINF:-1 tvg-id="SKY CINEMA EMOTION" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/375px-SKY_Basic_Logo.svg.png",SKY CINEMA EMOTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+EMOTION
+#EXTINF:-1 tvg-id="SKY BOX WESTERN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png",SKY BOX WESTERN
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+WESTERN
 #EXTINF:-1 tvg-id="AMAZON PRIME VIDEO 1" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png",AMAZON PRIME VIDEO 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AMAZON+PRIME+VIDEO+1
 #EXTINF:-1 tvg-id="AMAZON PRIME VIDEO 2" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png",AMAZON PRIME VIDEO 2
