@@ -407,41 +407,10 @@ https://jmp2.uk/SamsungTVPlus/DEAJ3500001Q1.m3u8
 #EXTINF:-1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-chno="5000" group-title="Sports" , CBS Sports USA
 https://live.tv247us.com/tv247/cbsn.m3u8|Referer=http://tv247.us/all-channels/
 
-#EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" tvg-chno="5001" group-title="Sports" , MSG SportsZone - USA TV
-https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD1200010I8" tvg-id="USBD1200010I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20230523T230753SQUARE.png_20230523230754.png" tvg-chno="5002" group-title="Sports" , Origin Sports - USA TV
-https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD25000161U" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20230823T001638SQUARE.png_20230823001639.png" tvg-chno="5003" group-title="Sports" , ACC Digital Network - USA TV
-https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 tvg-id="NBA TV" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/225px-NBA_TV.svg.png" tvg-chno="5004" group-title="Sports", NBA TV
 plugin://plugin.video.vavooto/?name=NBA+TV
 
-#EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="5005" group-title="Sports" , FOX Sports USA
-https://i.mjh.nz/PlutoTV/15a74b8e1e22a61737979c6bf-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-
-#EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" tvg-chno="5006" group-title="Sports" , Pluto TV Sports USA
-https://i.mjh.nz/PlutoTV/156340779a738201b4ccfeac9-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" tvg-chno="5007" , USA TODAY SPORTS
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c5a1a23c-cc0e-4f54-9e46-ab9a9ef49165/ImpactWrestling_White_1500x1000.png" tvg-chno="5008" , IMPACT Wrestling USA
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" tvg-chno="5009" , HBCUGO SPORTS USA
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
-
-#EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" tvg-chno="5010" group-title="Sci-Fi & Horror" , Alien Nation USA
-https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a878ba27-c8d8-46dc-8e89-73e8e0909417/GhostHunters_Logo_White_1500x1000_Chris.png" tvg-chno="5011" , Ghost Hunters Channel USA
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a" tvg-id="5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f6e3289-3420-484b-8b67-14fa777a03d0/beyond_paranormal__E4E2E2_Bryan_Mcdaid.png" tvg-chno="5012" , Beyond Paranormal USA
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/112.0.0.0%20Safari/537.36&X-Plex-Token=Dgu-mEFaa68RevoTTm9c&X-Forwarded-For=185.236.200.172
 
 #EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png" tvg-chno="5013" , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -454,9 +423,6 @@ https://z88.ubtvfans.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3
 
 #EXTINF:-1 tvg-name="espnusa u" tvg-id="espnusa", ESPN U USA
 https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
-
-#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-id="CBS SPORTS NETWORK", CBS SPORTS NETWORK USA
-https://webudit.webhd.ru/lb/premium308/index.m3u8|Referer=https%3A%2F%2Fweblivehdplay.ru%2Fpremiumtv%2Fdaddylivehd.php%3Fid%3D308&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.93+Safari%2F537.36
 
 #EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-id="FOX SPORTS 2", FOX SPORTS 2 USA
 https://live.tv247us.com/tv247/fs2.m3u8|Referer=http://tv247.us/all-channels/
@@ -540,68 +506,6 @@ https://live.tv247us.com/tv247/nhl.m3u8|Referer=http://tv247.us/all-channels/
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20231229T003235SQUARE.png_20231229003236.png"  , Movie Favorites USA
-https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png"  , MovieSphere USA
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" , FilmRise Free Movies USA
-https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20230925T234808SQUARE.png_20230925234809.png" , MyTime Movie Network USA
-https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20221214T015006SQUARE.png_20221214015007.png"  , Pluto TV Fantastic USA
-https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20231011T001126SQUARE.png_20231011001127.png" , Paramount Movie Channel USA
-https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png"  , FilmRise Action USA
-https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ3504701A" tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png" , Documentary+ USA
-https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20221214T015127SQUARE.png_20221214015128.png" , Maverick Black Cinema USA
-https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20230426T030503SQUARE.png_20230426030503.png"  , Gravitas Movies USA
-https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBB3200015M8" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20221109T013444SQUARE.png_20221109013445.png" , CINEVAULT: Classics USA
-https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ30000148W" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20221214T015134SQUARE.png_20221214015135.png" , CINEVAULT: 80s USA
-https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAK3508709A" tvg-id="USAK3508709A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20230222T041212SQUARE.png_20230222041213.png" , CINEVAULT: Westerns USA
-https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBA300005MK" tvg-id="USBA300005MK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20230131T052046SQUARE.png_20230131052047.png"  , Pluto TV Westerns USA
-https://i.mjh.nz/SamsungTVPlus/USBA300005MK.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20231031T225127SQUARE.png_20231031225128.png"  , Fear Zone USA
-https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBB5200028MM" tvg-id="USBB5200028MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20230809T005423SQUARE.png_20230809005424.png"  , UnXplained Zone USA
-https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBC4400006BR" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20230426T030505SQUARE.png_20230426030505.png" , Haunt TV USA
-https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png" , OuterSphere USA
-https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBB10000047W" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20230125T022635SQUARE.png_20230125022636.png"  , Unidentified USA
-https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD1200004NS" tvg-id="USBD1200004NS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20231031T225205SQUARE.png_20231031225206.png"  , The Walking Dead Universe USA
-https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png" , The Asylum USA
-https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 tvg-id="" group-title="Cᴀcᴀ Dᴇsᴘoʀᴛɪvᴀ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish tv
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
