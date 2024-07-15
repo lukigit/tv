@@ -164,23 +164,23 @@ https://jmp2.uk/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8|user-agent=okhttp/4.9.
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6305ca798bd95300072d2f93-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-65ef0f9d2873090008be19df" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-chno="100170" group-title="Western" , Pluto TV liebt John Wayne
+#EXTINF:-1 channel-id="pluto-65ef0f9d2873090008be19df" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Pluto TV liebt John Wayne
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/65ef0f9d2873090008be19df-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="100171" group-title="Western" , Rauchende Colts
+#EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Rauchende Colts
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/638f2bc7bc363100072f02dd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="100172" group-title="Western" , Pluto TV Western
+#EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Pluto TV Western
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/630dd3b2605f140007e002f5-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="100173" group-title="Western" , Rawhide - Tausend Meilen Staub
+#EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Rawhide - Tausend Meilen Staub
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/638f2983dcd9100008c2374d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="100174" group-title="Western" , Fury
+#EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Fury
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6270ea4345f5bc0007823048-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
