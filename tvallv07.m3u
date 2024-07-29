@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"
-
 #EXTINF:-1 channel-id="pluto-666c2b8761a39900088f0c89" tvg-id="666c2b8761a39900088f0c89" tvg-logo="https://images.pluto.tv/channels/666c2b8761a39900088f0c89/colorLogoPNG.png" tvg-chno="100101" group-title="Neu auf Pluto TV" , Pluto TV Crime on the beach
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/666c2b8761a39900088f0c89-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
