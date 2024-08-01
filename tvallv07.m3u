@@ -307,7 +307,7 @@ https://jmp2.uk/PlutoTV/65a67d200c7ff50008cb131a-alt.m3u8|user-agent=okhttp/4.9.
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/6152ee71bf99590007893a11-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-642ad6a5aa2d690008ea6d96" tvg-id="642ad6a5aa2d690008ea6d96" tvg-logo="https://images.pluto.tv/channels/642ad6a5aa2d690008ea6d96/colorLogoPNG.png" tvg-chno="132" group-title="Sci-Fi & Fantasy" , Viper
+#EXTINF:-1 channel-id="pluto-642ad6a5aa2d690008ea6d96" tvg-id="642ad6a5aa2d690008ea6d96" tvg-logo="https://images.pluto.tv/channels/642ad6a5aa2d690008ea6d96/colorLogoPNG.png" tvg-chno="100132" group-title="Sci-Fi & Fantasy" , Viper
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/642ad6a5aa2d690008ea6d96-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
@@ -523,7 +523,7 @@ https://jmp2.uk/PlutoTV/617aad99b68ef100072608cd-alt.m3u8|user-agent=okhttp/4.9.
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/642d7e029189ce0008958af5-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
-#EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="230" group-title="Entertainment" , Wicked Tuna
+#EXTINF:-1 channel-id="pluto-65253d66c52b3600083d8dd2" tvg-id="65253d66c52b3600083d8dd2" tvg-logo="https://images.pluto.tv/channels/65253d66c52b3600083d8dd2/colorLogoPNG.png" tvg-chno="100230" group-title="Entertainment" , Wicked Tuna
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
 https://jmp2.uk/PlutoTV/65253d66c52b3600083d8dd2-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
