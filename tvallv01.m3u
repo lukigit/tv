@@ -109,9 +109,9 @@ https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" tvg-chno="40" ,DMAX AUSTRIA
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery
+#EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png" tvg-chno="39" ,Discovery
 plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
@@ -121,7 +121,7 @@ plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo
+#EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png" tvg-chno="36" ,Geo
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GEO+TV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HEIMAT+KANAL
@@ -151,9 +151,9 @@ plugin://plugin.video.vavooto/?name=NTV
 plugin://plugin.video.vavooto/?name=N24+DOKU
 #EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
 plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png" tvg-chno="37" ,Nat Geo Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
-#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png",Nat Geo
+#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png" tvg-chno="38" ,Nat Geo
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
