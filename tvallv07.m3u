@@ -164,24 +164,19 @@ https://jmp2.uk/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8|user-agent=okhttp/4.9.
 https://jmp2.uk/PlutoTV/6305ca798bd95300072d2f93-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
 
 #EXTINF:-1 channel-id="pluto-65ef0f9d2873090008be19df" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Pluto TV liebt John Wayne
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/65ef0f9d2873090008be19df-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ef0f9d2873090008be19df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea089-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=debf8004-1d35-4eb6-830a-47860f09640f&serverSideAds=false
 
 #EXTINF:-1 channel-id="pluto-638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Rauchende Colts
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/638f2bc7bc363100072f02dd-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d764a599-229d-4f63-afae-f8dff18c8389&serverSideAds=false
 
 #EXTINF:-1 channel-id="pluto-630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Pluto TV Western
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/630dd3b2605f140007e002f5-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f9be2fb-9bfd-4c1e-8963-ba4370795ff3&serverSideAds=false
 
 #EXTINF:-1 channel-id="pluto-638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Rawhide - Tausend Meilen Staub
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/638f2983dcd9100008c2374d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2983dcd9100008c2374d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad98b92-b141-4c24-8811-e6b2de3021dc&serverSideAds=false
 
 #EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-chno="9004" group-title="Western" , Fury
-#KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
-https://jmp2.uk/PlutoTV/6270ea4345f5bc0007823048-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=217.94.184.66
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6270ea4345f5bc0007823048/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6802-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59b98e79-5c91-4b90-b21b-df3ab3630476&serverSideAds=false
 
 #EXTINF:-1 channel-id="pluto-60c716084d842c00085f6e64" tvg-id="60c716084d842c00085f6e64" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG.png" tvg-chno="100180" group-title="South Park" , Comedy Central South Park
 #KODIPROP:inputstream.adaptive.manifest_config={"hls_ignore_endlist":true,"hls_fix_mediasequence":true,"hls_fix_discsequence":true}
