@@ -1,5 +1,6 @@
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/de.xml.gz"
-
+#EXTM3U
+#EXTINF:-1 tvg-id="---TEST PLUTO TV---",48 Hours
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651432fa98020f000878b407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84abba50-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ae76c45-60ac-4cc1-baf6-65893cf0446b
 
 
 #EXTINF:-1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-chno="5000" group-title="Sports" , CBS Sports USA
