@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/blob/master/PlutoTV/de.xml.gz"
+#EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100514" , SKY SPORT AUSTRIA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100514" , SKY SPORT AUSTRIA 2
