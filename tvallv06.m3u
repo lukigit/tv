@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="---TEST PLUTO TV---",48 Hours
+#EXTINF:-1 tvg-id="",PLUTOTV-TEST
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651432fa98020f000878b407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84abba50-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ae76c45-60ac-4cc1-baf6-65893cf0446b
 
 
