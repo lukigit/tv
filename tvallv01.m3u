@@ -42,7 +42,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+EMOTION
 #EXTINF:-1 tvg-id="SKY BOX WESTERN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png" tvg-chno="20", SKY BOX WESTERN CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+WESTERN
 #EXTINF:-1 tvg-id="SKY BOX KRIEGSFILME" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png" tvg-chno="20", SKY BOX KRIEGSFILM CHANNEL
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+KRIEGSFILME
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+KRIEGSFILM
 #EXTINF:-1 tvg-id="AMAZON PRIME VIDEO 1" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png" tvg-chno="21" ,AMAZON PRIME VIDEO 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AMAZON+PRIME+VIDEO+1
 #EXTINF:-1 tvg-id="AMAZON PRIME VIDEO 2" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png" tvg-chno="22" ,AMAZON PRIME VIDEO 2
