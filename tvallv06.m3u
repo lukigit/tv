@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/de.xml, https://i.mjh.nz/PlutoTV/de.xml"
 #EXTINF:-1 group-title="Neu auf Pluto TV;Pluto TV" tvg-chno="1111" tvg-id="66c45b1803e3b20008d8c200" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG.png" tvg-name="CNNi" , CNNi
 plugin://slyguy.pluto.tv.provider/?_=play&id=66c45b1803e3b20008d8c200&_is_live=1&_noresume=.pvr
 
