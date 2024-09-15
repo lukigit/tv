@@ -1073,7 +1073,7 @@ plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504517A&_is_live=1&_noresume=.pv
 #EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4969" tvg-id="DEBA1500011RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20240830T142634SQUARE.png" tvg-name="Fantasja" , Fantasja
 plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1500011RJ&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4972" tvg-id="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20240321T045859SQUARE.png" tvg-name="Grjngo" , Grjngo
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="1179" tvg-id="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20240321T045859SQUARE.png" tvg-name="Grjngo" , Grjngo
 plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500449A&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4975" tvg-id="DEBA1500024PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20240321T045901SQUARE.png" tvg-name="Heimatkino" , Heimatkino
