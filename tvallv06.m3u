@@ -92,7 +92,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5e1452156c07b50009d0230e&_is_live=1
 #EXTINF:-1 group-title="Auto & Motor;Pluto TV" tvg-chno="1150" tvg-id="64c109735dc1660008a4a2dc" tvg-logo="https://images.pluto.tv/channels/64c109735dc1660008a4a2dc/colorLogoPNG.png" tvg-name="Top Gear" , Top Gear
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c109735dc1660008a4a2dc&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Auto & Motor;Pluto TV" tvg-chno="1151" tvg-id="654a2c1ff9cc82000867dada" tvg-logo="https://images.pluto.tv/channels/654a2c1ff9cc82000867dada/colorLogoPNG.png" tvg-name="Bloch ErklÃ¤rt" , Bloch ErklÃ¤rt
+#EXTINF:-1 group-title="Auto & Motor;Pluto TV" tvg-chno="1151" tvg-id="654a2c1ff9cc82000867dada" tvg-logo="https://images.pluto.tv/channels/654a2c1ff9cc82000867dada/colorLogoPNG.png" tvg-name="Bloch ErklÃ¤rt" , Bloch Erklärt
 plugin://slyguy.pluto.tv.provider/?_=play&id=654a2c1ff9cc82000867dada&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Auto & Motor;Pluto TV" tvg-chno="1152" tvg-id="654a2bfeab05240008a12881" tvg-logo="https://images.pluto.tv/channels/654a2bfeab05240008a12881/colorLogoPNG.png" tvg-name="GARAGENGOLD" , GARAGENGOLD
@@ -122,7 +122,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5dde47b63585b500099f74ec&_is_live=1
 #EXTINF:-1 group-title="Filmfieber;Pluto TV" tvg-chno="1165" tvg-id="5ce40e59246a395e9758923e" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" tvg-name="Pluto TV Indies" , Pluto TV Indies
 plugin://slyguy.pluto.tv.provider/?_=play&id=5ce40e59246a395e9758923e&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Filme;Pluto TV" tvg-chno="1166" tvg-id="64526a145a0cd50008632bfa" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" tvg-name="Pluto TV heiÃŸe NÃ¤chte" , Pluto TV heiÃŸe NÃ¤chte
+#EXTINF:-1 group-title="Filme;Pluto TV" tvg-chno="1166" tvg-id="64526a145a0cd50008632bfa" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" tvg-name="Pluto TV heiÃŸe NÃ¤chte" , Pluto TV heisse Nächte
 plugin://slyguy.pluto.tv.provider/?_=play&id=64526a145a0cd50008632bfa&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Filme;Pluto TV" tvg-chno="1167" tvg-id="669526d232e25300084bb47b" tvg-logo="https://images.pluto.tv/channels/669526d232e25300084bb47b/colorLogoPNG.png" tvg-name="Pluto TV Sharks" , Pluto TV Sharks
@@ -158,7 +158,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=638f2983dcd9100008c2374d&_is_live=1
 #EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1179" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-name="Fury" , Fury
 plugin://slyguy.pluto.tv.provider/?_=play&id=6270ea4345f5bc0007823048&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Deutsche Serien;Pluto TV" tvg-chno="1180" tvg-id="6254240a8256cb00079a9bf1" tvg-logo="https://images.pluto.tv/channels/6254240a8256cb00079a9bf1/colorLogoPNG.png" tvg-name="Praxis BÃ¼lowbogen" , Praxis BÃ¼lowbogen
+#EXTINF:-1 group-title="Deutsche Serien;Pluto TV" tvg-chno="1180" tvg-id="6254240a8256cb00079a9bf1" tvg-logo="https://images.pluto.tv/channels/6254240a8256cb00079a9bf1/colorLogoPNG.png" tvg-name="Praxis BÃ¼lowbogen" , Praxis Bülowbogen
 plugin://slyguy.pluto.tv.provider/?_=play&id=6254240a8256cb00079a9bf1&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Deutsche Serien;Pluto TV" tvg-chno="1181" tvg-id="65819f14b9adc4000813ee39" tvg-logo="https://images.pluto.tv/channels/65819f14b9adc4000813ee39/colorLogoPNG.png" tvg-name="Familie Dr. Kleist" , Familie Dr. Kleist
@@ -236,7 +236,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65a67d7d33ea86000831a21d&_is_live=1
 #EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1116" tvg-id="6523ca21a70bf000081fe675" tvg-logo="https://images.pluto.tv/channels/6523ca21a70bf000081fe675/colorLogoPNG.png" tvg-name="Community" , Community
 plugin://slyguy.pluto.tv.provider/?_=play&id=6523ca21a70bf000081fe675&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1117" tvg-id="650adbe0473a54000846ca0c" tvg-logo="https://images.pluto.tv/channels/650adbe0473a54000846ca0c/colorLogoPNG.png" tvg-name="Parker Lewis â€“ Der Coole von der Schule" , Parker Lewis â€“ Der Coole von der Schule
+#EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1117" tvg-id="650adbe0473a54000846ca0c" tvg-logo="https://images.pluto.tv/channels/650adbe0473a54000846ca0c/colorLogoPNG.png" tvg-name="Parker Lewis â€“ Der Coole von der Schule" , Parker Lewis - Der Coole von der Schule
 plugin://slyguy.pluto.tv.provider/?_=play&id=650adbe0473a54000846ca0c&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1118" tvg-id="655ca57e4261ca00080b3a04" tvg-logo="https://images.pluto.tv/channels/655ca57e4261ca00080b3a04/colorLogoPNG.png" tvg-name="Anger Management" , Anger Management
@@ -251,7 +251,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=634fe3a21eac3c00076a03f8&_is_live=1
 #EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1121" tvg-id="642ad2127ef83900085f8910" tvg-logo="https://images.pluto.tv/channels/642ad2127ef83900085f8910/colorLogoPNG.png" tvg-name="Mork vom Ork" , Mork vom Ork
 plugin://slyguy.pluto.tv.provider/?_=play&id=642ad2127ef83900085f8910&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1122" tvg-id="65b38e310d9ab400082bdec2" tvg-logo="https://images.pluto.tv/channels/65b38e310d9ab400082bdec2/colorLogoPNG.png" tvg-name="Wings â€“ Die Ãœberflieger" , Wings â€“ Die Ãœberflieger
+#EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1122" tvg-id="65b38e310d9ab400082bdec2" tvg-logo="https://images.pluto.tv/channels/65b38e310d9ab400082bdec2/colorLogoPNG.png" tvg-name="Wings â€“ Die Ãœberflieger" , Wings Die Überflieger
 plugin://slyguy.pluto.tv.provider/?_=play&id=65b38e310d9ab400082bdec2&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Sitcoms;Pluto TV" tvg-chno="1123" tvg-id="611e7f224676bf00076a4d8d" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" tvg-name="Cheers" , Cheers
@@ -299,13 +299,13 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=64c8dd94e4391c0008eb4742&_is_live=1
 #EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1145" tvg-id="664c8c100120f40008b845e5" tvg-logo="https://images.pluto.tv/channels/664c8c100120f40008b845e5/colorLogoPNG.png" tvg-name="CSI: Cyber" , CSI: Cyber
 plugin://slyguy.pluto.tv.provider/?_=play&id=664c8c100120f40008b845e5&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1146" tvg-id="6683f8c68768aa0008f6c25b" tvg-logo="https://images.pluto.tv/channels/6683f8c68768aa0008f6c25b/colorLogoPNG.png" tvg-name="Trio mit vier FÃ¤usten" , Trio mit vier FÃ¤usten
+#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1146" tvg-id="6683f8c68768aa0008f6c25b" tvg-logo="https://images.pluto.tv/channels/6683f8c68768aa0008f6c25b/colorLogoPNG.png" tvg-name="Trio mit vier Fäusten" , Trio mit vier Fäusten
 plugin://slyguy.pluto.tv.provider/?_=play&id=6683f8c68768aa0008f6c25b&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1147" tvg-id="6565fad6c917a50008484895" tvg-logo="https://images.pluto.tv/channels/6565fad6c917a50008484895/colorLogoPNG.png" tvg-name="Der Sentinel â€“ Im Auge des JÃ¤gers" , Der Sentinel â€“ Im Auge des JÃ¤gers
+#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1147" tvg-id="6565fad6c917a50008484895" tvg-logo="https://images.pluto.tv/channels/6565fad6c917a50008484895/colorLogoPNG.png" tvg-name="Der Sentinel â€“ Im Auge des JÃ¤gers" , Der Sentinel - Im Auge des Jägers
 plugin://slyguy.pluto.tv.provider/?_=play&id=6565fad6c917a50008484895&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1148" tvg-id="655ca4b94261ca00080b38d2" tvg-logo="https://images.pluto.tv/channels/655ca4b94261ca00080b38d2/colorLogoPNG.png" tvg-name="Pensacola â€“ FlÃ¼gel aus Stahl" , Pensacola â€“ FlÃ¼gel aus Stahl
+#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1148" tvg-id="655ca4b94261ca00080b38d2" tvg-logo="https://images.pluto.tv/channels/655ca4b94261ca00080b38d2/colorLogoPNG.png" tvg-name="Pensacola â€“ FlÃ¼gel aus Stahl" , Pensacola - Flügel aus Stahl
 plugin://slyguy.pluto.tv.provider/?_=play&id=655ca4b94261ca00080b38d2&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1149" tvg-id="651e951fb43b640008bfe697" tvg-logo="https://images.pluto.tv/channels/651e951fb43b640008bfe697/colorLogoPNG.png" tvg-name="Republic of Doyle" , Republic of Doyle
@@ -320,13 +320,13 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5e7b6c60fd20c50007910bf5&_is_live=1
 #EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1152" tvg-id="634fe5afece2e60007c9d8b8" tvg-logo="https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png" tvg-name="Mission Impossible" , Mission Impossible
 plugin://slyguy.pluto.tv.provider/?_=play&id=634fe5afece2e60007c9d8b8&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1153" tvg-id="650adc0ba1217e00091a3f4e" tvg-logo="https://images.pluto.tv/channels/650adc0ba1217e00091a3f4e/colorLogoPNG.png" tvg-name="V.I.P. â€“ Die Bodyguards" , V.I.P. â€“ Die Bodyguards
+#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1153" tvg-id="650adc0ba1217e00091a3f4e" tvg-logo="https://images.pluto.tv/channels/650adc0ba1217e00091a3f4e/colorLogoPNG.png" tvg-name="V.I.P. â€“ Die Bodyguards" , V.I.P. Die Bodyguards
 plugin://slyguy.pluto.tv.provider/?_=play&id=650adc0ba1217e00091a3f4e&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1154" tvg-id="65819e62b228b70008570e9f" tvg-logo="https://images.pluto.tv/channels/65819e62b228b70008570e9f/colorLogoPNG.png" tvg-name="Baywatch" , Baywatch
 plugin://slyguy.pluto.tv.provider/?_=play&id=65819e62b228b70008570e9f&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1155" tvg-id="6349259d1d90320007fcb1d9" tvg-logo="https://images.pluto.tv/channels/6349259d1d90320007fcb1d9/colorLogoPNG.png" tvg-name="Hawaii FÃ¼nf-Null" , Hawaii FÃ¼nf-Null
+#EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1155" tvg-id="6349259d1d90320007fcb1d9" tvg-logo="https://images.pluto.tv/channels/6349259d1d90320007fcb1d9/colorLogoPNG.png" tvg-name="Hawaii FÃ¼nf-Null" , Hawaii Five-Null
 plugin://slyguy.pluto.tv.provider/?_=play&id=6349259d1d90320007fcb1d9&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Action & Crime;Pluto TV" tvg-chno="1156" tvg-id="642ad5bd283aa40008064568" tvg-logo="https://images.pluto.tv/channels/642ad5bd283aa40008064568/colorLogoPNG.png" tvg-name="Pacific Blue" , Pacific Blue
@@ -335,13 +335,13 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=642ad5bd283aa40008064568&_is_live=1
 #EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1160" tvg-id="655ca3d1fbc15b00081f1186" tvg-logo="https://images.pluto.tv/channels/655ca3d1fbc15b00081f1186/colorLogoPNG.png" tvg-name="Love Boat" , Love Boat
 plugin://slyguy.pluto.tv.provider/?_=play&id=655ca3d1fbc15b00081f1186&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1161" tvg-id="634fe45d5c0beb0007cd7571" tvg-logo="https://images.pluto.tv/channels/634fe45d5c0beb0007cd7571/colorLogoPNG.png" tvg-name="Reich und SchÃ¶n" , Reich und SchÃ¶n
+#EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1161" tvg-id="634fe45d5c0beb0007cd7571" tvg-logo="https://images.pluto.tv/channels/634fe45d5c0beb0007cd7571/colorLogoPNG.png" tvg-name="Reich und SchÃ¶n" , Reich und Schön
 plugin://slyguy.pluto.tv.provider/?_=play&id=634fe45d5c0beb0007cd7571&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1162" tvg-id="62cebd7302478b00073a6b71" tvg-logo="https://images.pluto.tv/channels/62cebd7302478b00073a6b71/colorLogoPNG.png" tvg-name="Der Denver-Clan" , Der Denver-Clan
 plugin://slyguy.pluto.tv.provider/?_=play&id=62cebd7302478b00073a6b71&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1163" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-name="Die SchÃ¶ne und das Biest" , Die SchÃ¶ne und das Biest
+#EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1163" tvg-id="65ae47337bdc8d000853f1fd" tvg-logo="https://images.pluto.tv/channels/65ae47337bdc8d000853f1fd/colorLogoPNG.png" tvg-name="Die SchÃ¶ne und das Biest" , Die Schöne und das Biest
 plugin://slyguy.pluto.tv.provider/?_=play&id=65ae47337bdc8d000853f1fd&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Serien;Pluto TV" tvg-chno="1164" tvg-id="645a0ddfe1979c00086d83ff" tvg-logo="https://images.pluto.tv/channels/645a0ddfe1979c00086d83ff/colorLogoPNG.png" tvg-name="Red Shoe Diaries" , Red Shoe Diaries
@@ -380,12 +380,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=640f4f4083f589000828a544&_is_live=1
 #EXTINF:-1 group-title="TÃ¼rkische Serien;Pluto TV" tvg-chno="1178" tvg-id="650b064ad1f20c000856a5a4" tvg-logo="https://images.pluto.tv/channels/650b064ad1f20c000856a5a4/colorLogoPNG.png" tvg-name="Pluto TV Dizikolik" , Pluto TV Dizikolik
 plugin://slyguy.pluto.tv.provider/?_=play&id=650b064ad1f20c000856a5a4&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="TÃ¼rkische Serien;Pluto TV" tvg-chno="1179" tvg-id="66338ce79e68c20008b7e00f" tvg-logo="https://images.pluto.tv/channels/66338ce79e68c20008b7e00f/colorLogoPNG.png" tvg-name="YÃ¼ksek Sosyete â€“ High Society" , YÃ¼ksek Sosyete â€“ High Society
-plugin://slyguy.pluto.tv.provider/?_=play&id=66338ce79e68c20008b7e00f&_is_live=1&_noresume=.pvr
-
-#EXTINF:-1 group-title="TÃ¼rkische Serien;Pluto TV" tvg-chno="1180" tvg-id="66338e3e23e24f000847f4ae" tvg-logo="https://images.pluto.tv/channels/66338e3e23e24f000847f4ae/colorLogoPNG.png" tvg-name="Ã‡ilek Kokusu â€“ Strawberry Smell" , Ã‡ilek Kokusu â€“ Strawberry Smell
-plugin://slyguy.pluto.tv.provider/?_=play&id=66338e3e23e24f000847f4ae&_is_live=1&_noresume=.pvr
-
 #EXTINF:-1 group-title="Animation;Pluto TV" tvg-chno="1185" tvg-id="65d5fc39a25d5e00082895c4" tvg-logo="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/colorLogoPNG.png" tvg-name="Naruto" , Naruto
 plugin://slyguy.pluto.tv.provider/?_=play&id=65d5fc39a25d5e00082895c4&_is_live=1&_noresume=.pvr
 
@@ -407,16 +401,16 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5e1c669094e0e80009b22ab8&_is_live=1
 #EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1200" tvg-id="64eddce19001910008df22b8" tvg-logo="https://images.pluto.tv/channels/64eddce19001910008df22b8/colorLogoPNG.png" tvg-name="F.B.I. Files" , F.B.I. Files
 plugin://slyguy.pluto.tv.provider/?_=play&id=64eddce19001910008df22b8&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1201" tvg-id="656064e74261ca00081812a9" tvg-logo="https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png" tvg-name="Hours to Kill â€“ Zeitachse des Todes" , Hours to Kill â€“ Zeitachse des Todes
+#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1201" tvg-id="656064e74261ca00081812a9" tvg-logo="https://images.pluto.tv/channels/656064e74261ca00081812a9/colorLogoPNG.png" tvg-name="Hours to Kill â€“ Zeitachse des Todes" , Hours to Kill - die Zeitachse des Todes
 plugin://slyguy.pluto.tv.provider/?_=play&id=656064e74261ca00081812a9&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1202" tvg-id="650adc3198020f000862eed4" tvg-logo="https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png" tvg-name="Unentdeckt â€“ MÃ¶rder unter uns" , Unentdeckt â€“ MÃ¶rder unter uns
+#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1202" tvg-id="650adc3198020f000862eed4" tvg-logo="https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png" tvg-name="Unentdeckt â€“ MÃ¶rder unter uns" , Unentdeckt - Mörder unter uns
 plugin://slyguy.pluto.tv.provider/?_=play&id=650adc3198020f000862eed4&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1203" tvg-id="656064752c46f300087e9c99" tvg-logo="https://images.pluto.tv/channels/656064752c46f300087e9c99/colorLogoPNG.png" tvg-name="Cold Blood" , Cold Blood
 plugin://slyguy.pluto.tv.provider/?_=play&id=656064752c46f300087e9c99&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1204" tvg-id="642abea1283aa4000805bb5b" tvg-logo="https://images.pluto.tv/channels/642abea1283aa4000805bb5b/colorLogoPNG.png" tvg-name="TÃ¤terjagd" , TÃ¤terjagd
+#EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1204" tvg-id="642abea1283aa4000805bb5b" tvg-logo="https://images.pluto.tv/channels/642abea1283aa4000805bb5b/colorLogoPNG.png" tvg-name="TÃ¤terjagd" , Täterjagd
 plugin://slyguy.pluto.tv.provider/?_=play&id=642abea1283aa4000805bb5b&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="True Crime & Mystery;Pluto TV" tvg-chno="1205" tvg-id="63d90f828795f300086745b2" tvg-logo="https://images.pluto.tv/channels/63d90f828795f300086745b2/colorLogoPNG.png" tvg-name="Myth Hunters" , Myth Hunters
@@ -523,9 +517,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5d00e8adaab96b5635b2a005&_is_live=1
 
 #EXTINF:-1 group-title="SpongeBob Schwammkopf - 25 Jahre;Pluto TV" tvg-chno="401" tvg-id="66794444efa2a10008ca1b16" tvg-logo="https://images.pluto.tv/channels/66794444efa2a10008ca1b16/colorLogoPNG.png" tvg-name="SpongeBob in Italiano" , SpongeBob in Italiano
 plugin://slyguy.pluto.tv.provider/?_=play&id=66794444efa2a10008ca1b16&_is_live=1&_noresume=.pvr
-
-#EXTINF:-1 group-title="SpongeBob Schwammkopf - 25 Jahre;Pluto TV" tvg-chno="402" tvg-id="667943a322acab00089fbd58" tvg-logo="https://images.pluto.tv/channels/667943a322acab00089fbd58/colorLogoPNG.png" tvg-name="SÃ¼nger Bob Kare Pantolon" , SÃ¼nger Bob Kare Pantolon
-plugin://slyguy.pluto.tv.provider/?_=play&id=667943a322acab00089fbd58&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="SpongeBob Schwammkopf - 25 Jahre;Pluto TV" tvg-chno="403" tvg-id="667944cb63a5f20008df6ad4" tvg-logo="https://images.pluto.tv/channels/667944cb63a5f20008df6ad4/colorLogoPNG.png" tvg-name="SpongeBob OV" , SpongeBob OV
 plugin://slyguy.pluto.tv.provider/?_=play&id=667944cb63a5f20008df6ad4&_is_live=1&_noresume=.pvr
@@ -707,8 +698,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=6639d7d4b18d700008da5316&_is_live=1
 #EXTINF:-1 group-title="Nachrichten;Pluto TV" tvg-chno="496" tvg-id="62441d6ded1827000763dcda" tvg-logo="https://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" tvg-name="CBS News 24/7" , CBS News 24/7
 plugin://slyguy.pluto.tv.provider/?_=play&id=62441d6ded1827000763dcda&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Wie funktioniert Pluto TV;Pluto TV" tvg-chno="510" tvg-id="64fedb9dd661bb0008258ad3" tvg-logo="https://images.pluto.tv/channels/64fedb9dd661bb0008258ad3/colorLogoPNG.png" tvg-name="Wie funktioniert Pluto TV" , Wie funktioniert Pluto TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=64fedb9dd661bb0008258ad3&_is_live=1&_noresume=.pvr
 
 
 
