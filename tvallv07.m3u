@@ -17,7 +17,7 @@ plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD26000020X&_is_live=1&_noresume=.p
 #EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4010" tvg-id="DEBA3300019EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240911T162850SQUARE.png" tvg-name="FIFA+" , FIFA+
 plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300019EB&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4103" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-name="Bares fÃ¼r Rares" , Bares fÃ¼r Rares
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4103" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-name="Bares fÃ¼r Rares" , Bares für Rares
 plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD30000014M&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4105" tvg-id="DE40000191" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE40000191_20240319T052619SQUARE.png" tvg-name="The Graham Norton Show" , The Graham Norton Show
