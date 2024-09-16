@@ -350,7 +350,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
 #EXTINF:-1 tvg-id="DE: SKY SPORT AUSTRIA 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/6b/Sky_Sport_Austria_HD_Logo_2020.png" tvg-chno="1100514" , SKY SPORT AUSTRIA 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png" tvg-chno="1100515" ,DAZN 1
+#EXTINF:-1 tvg-id="DAZN" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png" tvg-chno="1100515" ,DAZN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN+1
 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png" tvg-chno="1100516" ,DAZN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN+2
