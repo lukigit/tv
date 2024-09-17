@@ -39,7 +39,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+FAMILY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SERIEN+%26+SHOWS
 #EXTINF:-1 tvg-id="SKY CINEMA EMOTION" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/375px-SKY_Basic_Logo.svg.png" tvg-chno="20" ,SKY CINEMA EMOTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+EMOTION
-#EXTINF:-1 tvg-id="SKY BOX WESTERN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png" tvg-chno="20", SKY BOX WESTERN CHANNEL
+#EXTINF:-1 tvg-id="SKY BOX WESTERN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png" tvg-chno="1177", SKY BOX WESTERN CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+WESTERN
 #EXTINF:-1 tvg-id="SKY BOX KRIEGSFILME" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Originals_Logo_2020.png/330px-Sky_Originals_Logo_2020.png" tvg-chno="20", SKY BOX KRIEGSFILM CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BOX+KRIEGSFILM
