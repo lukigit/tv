@@ -1,4 +1,416 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml"
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4003" tvg-id="DEBA1000003IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png" tvg-name="Euronews Live" , Euronews Live
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1000003IM&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4004" tvg-id="DEBA3300018UN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300018UN_20240611T061029SQUARE.png" tvg-name="Crime Serien - Rakuten TV" , Crime Serien - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300018UN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4005" tvg-id="DEBD800001S4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20230308T021608SQUARE.png_20230308021608.png" tvg-name="CNN" , CNN
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD800001S4&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4006" tvg-id="DE1200001JW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200001JW_20240910T050526SQUARE.png" tvg-name="Free Comedy" , Free Comedy
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE1200001JW&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4007" tvg-id="DEBD26000020X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20240910T050512SQUARE.png" tvg-name="Baywatch" , Baywatch
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD26000020X&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4010" tvg-id="DEBA3300019EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240911T162850SQUARE.png" tvg-name="FIFA+" , FIFA+
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300019EB&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4103" tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20231011T082439SQUARE.png_20231011082440.png" tvg-name="Bares fÃ¼r Rares" , Bares für Rares
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD30000014M&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4105" tvg-id="DE40000191" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE40000191_20240319T052619SQUARE.png" tvg-name="The Graham Norton Show" , The Graham Norton Show
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE40000191&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4107" tvg-id="DEBD2700004YR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700004YR_20240507T094127SQUARE.png" tvg-name="Freitag Nacht News" , Freitag Nacht News
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2700004YR&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4110" tvg-id="DEAK3504502A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" tvg-name="MTV Catfish" , MTV Catfish
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504502A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4112" tvg-id="DEBC47000055Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC47000055Z_20240910T050506SQUARE.png" tvg-name="Hell's Kitchen" , Hell's Kitchen
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC47000055Z&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4118" tvg-id="DEAK3504508A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20230809T053737SQUARE.png_20230809053738.png" tvg-name="Pluto TV Sitcoms" , Pluto TV Sitcoms
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504508A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4119" tvg-id="DEBA33000038I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000038I_20240827T041106SQUARE.png" tvg-name="Pluto TV - Star Trek" , Pluto TV - Star Trek
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA33000038I&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4120" tvg-id="DEAJ3200005JH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200005JH_20230222T012111SQUARE.png_20230222012112.png" tvg-name="The Pet Collective" , The Pet Collective
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ3200005JH&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4121" tvg-id="DEAJ3200004UF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200004UF_20240313T073205SQUARE.png" tvg-name="FailArmy" , FailArmy
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ3200004UF&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4126" tvg-id="DEAK3504501A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504501A_20221026T004356SQUARE.png_20221026004356.png" tvg-name="Comedy Central Made in Germany" , Comedy Central Made in Germany
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504501A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4128" tvg-id="DEBA3300038NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20230426T015546SQUARE.png_20230426015547.png" tvg-name="Craction TV" , Craction TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300038NO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4130" tvg-id="DEAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20221026T004354SQUARE.png_20221026004355.png" tvg-name="Comedy Central Pluto TV" , Comedy Central Pluto TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504500A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4132" tvg-id="DEAJ7000105I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000105I_20220323T072040SQUARE.png_20220323072043.png" tvg-name="MTV Teen Mom" , MTV Teen Mom
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ7000105I&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4134" tvg-id="DEAJ3500005RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500005RK_20220323T072130SQUARE.png_20220323072133.png" tvg-name="People Are Awesome" , People Are Awesome
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ3500005RK&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4136" tvg-id="DEAJ7000033P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000033P_20220323T072034SQUARE.png_20220323072037.png" tvg-name="MTV Pluto TV" , MTV Pluto TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ7000033P&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4138" tvg-id="DEBC2200002E7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200002E7_20231025T032858SQUARE.png_20231025032859.png" tvg-name="Comedy & Shows" , Comedy & Shows
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC2200002E7&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4139" tvg-id="DEBC2200003Z3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20230809T053743SQUARE.png_20230809053744.png" tvg-name="Stars in Gefahr" , Stars in Gefahr
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC2200003Z3&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Anime;Samsung TV Plus" tvg-chno="4140" tvg-id="DEBD390000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20240709T045038SQUARE.png" tvg-name="Aniverse TV" , Aniverse TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD390000181&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Anime;Samsung TV Plus" tvg-chno="4141" tvg-id="DEBD11000019M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD11000019M_20231101T032748SQUARE.png_20231101032748.png" tvg-name="Naruto" , Naruto
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD11000019M&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Anime;Samsung TV Plus" tvg-chno="4142" tvg-id="DEAJ2900002FC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900002FC_20231101T032746SQUARE.png_20231101032746.png" tvg-name="Yu-Gi-Oh!" , Yu-Gi-Oh!
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ2900002FC&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Anime;Samsung TV Plus" tvg-chno="4144" tvg-id="DE1400001OB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400001OB_20240611T061023SQUARE.png" tvg-name="Beyblade" , Beyblade
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE1400001OB&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Unterhaltung;Samsung TV Plus" tvg-chno="4147" tvg-id="DEBD2400001PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2400001PC_20240507T094129SQUARE.png" tvg-name="Out TV" , Out TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2400001PC&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4162" tvg-id="DE200001XV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200001XV_20240423T034135SQUARE.png" tvg-name="Starke Frauen" , Starke Frauen
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE200001XV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4166" tvg-id="DEAJ700007OT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700007OT_20230809T053735SQUARE.png_20230809053736.png" tvg-name="Pluto TV Serie" , Pluto TV Serie
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ700007OT&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4169" tvg-id="DEBC2200001EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20230809T053741SQUARE.png_20230809053742.png" tvg-name="Spannung & Emotionen" , Spannung & Emotionen
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC2200001EO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4171" tvg-id="DEAJ2900003CN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20230913T030540SQUARE.png_20230913030541.png" tvg-name="Zee One" , Zee One
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ2900003CN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4174" tvg-id="DEBD4100001ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20240709T045045SQUARE.png" tvg-name="Merhaba TÃ¼rkische Serien" , Merhaba TÃ¼rkische Serien
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD4100001ZB&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4200" tvg-id="DEBC3000003IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20240911T162853SQUARE.png" tvg-name="Terra X" , Terra X
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC3000003IG&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4205" tvg-id="DEAJ2900001NG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900001NG_20240911T162842SQUARE.png" tvg-name="SPIEGEL TV Konflikte" , SPIEGEL TV Konflikte
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ2900001NG&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4207" tvg-id="DEBC220000422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20230412T042631SQUARE.png_20230412042631.png" tvg-name="The Wicked Tuna Channel" , The Wicked Tuna Channel
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC220000422&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4208" tvg-id="DEBA3300014CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300014CV_20230712T021520SQUARE.png_20230712021520.png" tvg-name="CURIOSITY Now" , CURIOSITY Now
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300014CV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4210" tvg-id="DEAJ700008WL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" tvg-name="Pluto TV Paranormal" , Pluto TV Paranormal
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ700008WL&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4216" tvg-id="DEBA1000007UF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000007UF_20220323T071820SQUARE.png_20220323071823.png" tvg-name="BBC History" , BBC History
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1000007UF&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4219" tvg-id="DEAK0500450A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500450A_20240321T045915SQUARE.png" tvg-name="Tempora" , Tempora
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500450A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4222" tvg-id="DEAJ7000096L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20220323T072004SQUARE.png_20220323072007.png" tvg-name="Ice Pilots" , Ice Pilots
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ7000096L&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4228" tvg-id="DEAK3504506A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504506A_20220914T041104SQUARE.png_20220914041105.png" tvg-name="Pluto TV Science" , Pluto TV Science
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504506A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4234" tvg-id="DEBA15000298V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000298V_20240911T162831SQUARE.png" tvg-name="Bergblick Free" , Bergblick Free
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA15000298V&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4239" tvg-id="DEBC4700004VZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20240131T031111SQUARE.png_20240131031112.png" tvg-name="Love the Planet" , Love the Planet
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC4700004VZ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4240" tvg-id="DEBA1500009ZY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20240821T173732SQUARE.png" tvg-name="Moconomy" , Moconomy
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1500009ZY&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4254" tvg-id="DE3200001RI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20240910T050509SQUARE.png" tvg-name="BBC Earth" , BBC Earth
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE3200001RI&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4260" tvg-id="DEBA3300042XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20240905T090245SQUARE.png" tvg-name="Wilder Planet" , Wilder Planet
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300042XG&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4263" tvg-id="DEAJ0500423A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500423A_20240911T162834SQUARE.png" tvg-name="Tierwelt" , Tierwelt
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500423A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4265" tvg-id="DEAJ32000012H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ32000012H_20240117T032632SQUARE.png_20240117032633.png" tvg-name="Terra Mater WILD" , Terra Mater WILD
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ32000012H&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4266" tvg-id="DEAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20221026T004359SQUARE.png_20221026004359.png" tvg-name="Pluto TV Animals" , Pluto TV Animals
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504503A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Natur;Samsung TV Plus" tvg-chno="4269" tvg-id="DEBA15000227H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20240321T045910SQUARE.png" tvg-name="One Terra" , One Terra
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA15000227H&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4312" tvg-id="DEBD19000012M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20240827T041048SQUARE.png" tvg-name="CNN FAST" , CNN FAST
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD19000012M&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4314" tvg-id="DEBD1100002II" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1100002II_20230823T033041SQUARE.png_20230823033041.png" tvg-name="FRANCE 24 FAST" , FRANCE 24 FAST
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD1100002II&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4320" tvg-id="DEBA3300027ZJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300027ZJ_20221026T004408SQUARE.png_20221026004409.png" tvg-name="Bloomberg TV+" , Bloomberg TV+
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300027ZJ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4324" tvg-id="DEBD4900001QV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20240131T031117SQUARE.png_20240131031117.png" tvg-name="Reuters" , Reuters
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD4900001QV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kids;Pluto TV" tvg-chno="4333" tvg-id="5dbc327d0451770009ed7577" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" tvg-name="Simsalabim Sabrina" , Simsalabim Sabrina
+plugin://slyguy.pluto.tv.provider/?_=play&id=5dbc327d0451770009ed7577&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4336" tvg-id="DEAJ0500413A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500413A_20240321T045855SQUARE.png" tvg-name="Focus TV" , Focus TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500413A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="News;Samsung TV Plus" tvg-chno="4342" tvg-id="DE7000028I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE7000028I_20240521T042549SQUARE.png" tvg-name="SPIEGEL TV" , SPIEGEL TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE7000028I&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4401" tvg-id="DE1100002WN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100002WN_20240709T045047SQUARE.png" tvg-name="The Diary Of A CEO" , The Diary Of A CEO
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE1100002WN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4402" tvg-id="DEBA1000009TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png" tvg-name="BBC Travel" , BBC Travel
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1000009TT&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4403" tvg-id="DE1100001CQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20240611T061037SQUARE.png" tvg-name="Landlust TV" , Landlust TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE1100001CQ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4405" tvg-id="DEBD1500001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20240507T094117SQUARE.png" tvg-name="Lagerfeuer" , Lagerfeuer
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD1500001VJ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4406" tvg-id="DEAJ0500428A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20240321T045921SQUARE.png" tvg-name="just.fishing" , just.fishing
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500428A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4410" tvg-id="DEAJ0500422A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20240321T045917SQUARE.png" tvg-name="Xplore" , Xplore
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500422A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4413" tvg-id="DEBD2700003W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700003W5_20240313T073207SQUARE.png" tvg-name="Royalworld - Adel & Dynastien" , Royalworld - Adel & Dynastien
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2700003W5&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4418" tvg-id="DEAJ0500424A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20240815T004702SQUARE.png" tvg-name="Hip Trips" , Hip Trips
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500424A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Dokus;Samsung TV Plus" tvg-chno="4421" tvg-id="DEBD1900002CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1900002CB_20240911T162836SQUARE.png" tvg-name="Screen Green" , Screen Green
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD1900002CB&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4422" tvg-id="DEBA100000404" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png" tvg-name="Travelxp" , Travelxp
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA100000404&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Lifestyle;Samsung TV Plus" tvg-chno="4424" tvg-id="DEBA3300022IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png" tvg-name="Fashion TV" , Fashion TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300022IF&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4425" tvg-id="DEBD3700002HO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20240813T155908SQUARE.png" tvg-name="ZDF kocht!" , ZDF kocht!
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD3700002HO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4426" tvg-id="DE200003PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20240910T050536SQUARE.png" tvg-name="The Jamie Oliver Channel" , The Jamie Oliver Channel
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE200003PX&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4435" tvg-id="DEBA1000010YG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000010YG_20240911T162839SQUARE.png" tvg-name="BBC Food" , BBC Food
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1000010YG&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4441" tvg-id="DEBA3300001L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20220323T072142SQUARE.png_20220323072145.png" tvg-name="Pluto TV Food" , Pluto TV Food
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300001L9&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4447" tvg-id="DEAK0500439A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20240905T090259SQUARE.png" tvg-name="Just Cooking" , Just Cooking
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500439A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Essen & Trinken;Samsung TV Plus" tvg-chno="4450" tvg-id="DEBD2600001OZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600001OZ_20231115T011305SQUARE.png_20231115011306.png" tvg-name="Sallys Welt" , Sallys Welt
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2600001OZ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4475" tvg-id="DEBD2300001ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2300001ND_20231115T012113SQUARE.png_20231115012114.png" tvg-name="Sport 1 Motor" , Sport 1 Motor
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2300001ND&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4476" tvg-id="DE2400002VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400002VA_20240709T045049SQUARE.png" tvg-name="Top Gear" , Top Gear
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2400002VA&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4485" tvg-id="DEAK0500452A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20240321T045919SQUARE.png" tvg-name="auto motor und sport" , auto motor und sport
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500452A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4488" tvg-id="DEBD2600004U7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600004U7_20230913T030533SQUARE.png_20230913030533.png" tvg-name="Motorvision Classic" , Motorvision Classic
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2600004U7&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4491" tvg-id="DEBD2600005U6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600005U6_20230913T030531SQUARE.png_20230913030531.png" tvg-name="Motorvision" , Motorvision
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2600005U6&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4510" tvg-id="DEBC2300001EU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20240905T090306SQUARE.png" tvg-name="Red Bull TV" , Red Bull TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC2300001EU&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4511" tvg-id="DEBD260000692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20231213T033336SQUARE.png_20231213033337.png" tvg-name="Scooore" , Scooore
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD260000692&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4516" tvg-id="DEBD29000013S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD29000013S_20230926T032246SQUARE.png_20230926032246.png" tvg-name="World Poker Tour" , World Poker Tour
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD29000013S&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4519" tvg-id="DEBA33000419P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000419P_20220324T011824SQUARE.png_20220324011827.png" tvg-name="Horse & Country" , Horse & Country
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA33000419P&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4522" tvg-id="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240611T061010SQUARE.png" tvg-name="Sportdigital Free" , Sportdigital Free
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500429A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4525" tvg-id="DEBA2200008NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20240911T162847SQUARE.png" tvg-name="Tennis Channel Deutschland" , Tennis Channel Deutschland
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA2200008NL&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Auto & Motor;Samsung TV Plus" tvg-chno="4528" tvg-id="DEBD26000034M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000034M_20230913T030529SQUARE.png_20230913030529.png" tvg-name="More than Sports TV" , More than Sports TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD26000034M&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sport;Samsung TV Plus" tvg-chno="4557" tvg-id="DEBA3300016EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20240905T090252SQUARE.png" tvg-name="Strongman Champions League" , Strongman Champions League
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300016EV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Extremsport;Samsung TV Plus" tvg-chno="4560" tvg-id="DEBD5000002EW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000002EW_20240131T031121SQUARE.png_20240131031122.png" tvg-name="World of Freesports - WoF" , World of Freesports - WoF
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD5000002EW&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4608" tvg-id="DEBD4700001UN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4700001UN_20240911T162927SQUARE.png" tvg-name="LooLoo Kids" , LooLoo Kids
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD4700001UN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4610" tvg-id="DEBA3300023IR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20240911T162933SQUARE.png" tvg-name="Teletubbies" , Teletubbies
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300023IR&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4612" tvg-id="DE3200003U8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20240910T050534SQUARE.png" tvg-name="StoryZoo & Friends" , StoryZoo & Friends
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE3200003U8&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4613" tvg-id="DEBD5100001XP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5100001XP_20240911T162936SQUARE.png" tvg-name="SuperToons TV" , SuperToons TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD5100001XP&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4614" tvg-id="DE700001BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE700001BN_20240911T162943SQUARE.png" tvg-name="Pocoyo" , Pocoyo
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE700001BN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4615" tvg-id="DEBA33000212C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20240117T032630SQUARE.png_20240117032631.png" tvg-name="Family - Rakuten TV" , Family - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA33000212C&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4616" tvg-id="DEAJ70000561" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20240911T162922SQUARE.png" tvg-name="SpongeBob Schwammkopf" , SpongeBob Schwammkopf
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ70000561&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4619" tvg-id="DEAJ700004BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20231011T082437SQUARE.png_20231011082438.png" tvg-name="Teen Nick" , Teen Nick
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ700004BT&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4622" tvg-id="DEAJ700002N8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20221026T004347SQUARE.png_20221026004348.png" tvg-name="Nick Pluto TV" , Nick Pluto TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ700002N8&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4625" tvg-id="DEAJ700006MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700006MR_20240911T162925SQUARE.png" tvg-name="iCarly" , iCarly
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ700006MR&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4627" tvg-id="DE2000004BG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000004BG_20240911T162939SQUARE.png" tvg-name="CAR CITY ADVENTURES" , CAR CITY ADVENTURES
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2000004BG&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Kinder;Samsung TV Plus" tvg-chno="4628" tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" tvg-name="duckTV" , duckTV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC4700007JV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4710" tvg-id="DEBC2100001ZJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20230614T005718SQUARE.png_20230614005719.png" tvg-name="Vevo Pop" , Vevo Pop
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC2100001ZJ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4711" tvg-id="DEBD3800001QD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20240131T032211SQUARE.png_20240131032211.png" tvg-name="DELUXE RAP" , DELUXE RAP
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD3800001QD&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4714" tvg-id="DE23000015Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20240910T050524SQUARE.png" tvg-name="Deluxe Dance" , Deluxe Dance
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE23000015Y&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4716" tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" tvg-name="Vevo Schlager Pop" , Vevo Schlager Pop
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC21000022L&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4719" tvg-id="DEBA2200003I0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200003I0_20230614T005700SQUARE.png_20230614005700.png" tvg-name="Qwest TV" , Qwest TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA2200003I0&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4722" tvg-id="DEBA2200007V6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20240131T031109SQUARE.png_20240131031110.png" tvg-name="XITE Hits" , XITE Hits
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA2200007V6&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4728" tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" tvg-name="Deluxe Deutschpop" , Deluxe Deutschpop
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA150003050&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4732" tvg-id="DE2500001DO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20240815T004655SQUARE.png" tvg-name="Cool Summer Channel" , Cool Summer Channel
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2500001DO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4734" tvg-id="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" tvg-name="Deluxe Lounge HD" , Deluxe Lounge HD
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAH3904006A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4737" tvg-id="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240321T045857SQUARE.png" tvg-name="GoldStar TV" , GoldStar TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500445A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4740" tvg-id="DEBA3300030O1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20230614T005701SQUARE.png_20230614005702.png" tvg-name="Trace Urban" , Trace Urban
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300030O1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Musik;Samsung TV Plus" tvg-chno="4743" tvg-id="DEBD3000002SI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20240611T061015SQUARE.png" tvg-name="XITE Rock X Metal" , XITE Rock X Metal
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD3000002SI&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4945" tvg-id="DEBD5000001VL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000001VL_20240131T031119SQUARE.png_20240131031120.png" tvg-name="Top Filme" , Top Filme
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD5000001VL&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4950" tvg-id="DEBC35000020P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC35000020P_20221012T015939SQUARE.png_20221012015939.png" tvg-name="Filmgold" , Filmgold
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBC35000020P&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4954" tvg-id="DEBA3300034HH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20240911T162955SQUARE.png" tvg-name="wedo movies" , wedo movies
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300034HH&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4957" tvg-id="DEBA15000130L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20240911T162958SQUARE.png" tvg-name="Fabella" , Fabella
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA15000130L&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4960" tvg-id="DEAJ0500419A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20240830T142606SQUARE.png" tvg-name="Netzkino" , Netzkino
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ0500419A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4963" tvg-id="DEBA3300040CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20240911T162930SQUARE.png" tvg-name="Moviedome Family" , Moviedome Family
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300040CR&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4966" tvg-id="DEAK3504517A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504517A_20220323T075105SQUARE.png_20220323075108.png" tvg-name="Pluto TV Movies" , Pluto TV Movies
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK3504517A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4969" tvg-id="DEBA1500011RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20240830T142634SQUARE.png" tvg-name="Fantasja" , Fantasja
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1500011RJ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4975" tvg-id="DEBA1500024PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20240321T045901SQUARE.png" tvg-name="Heimatkino" , Heimatkino
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA1500024PZ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4976" tvg-id="DEBA3300017VV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300017VV_20230322T075315SQUARE.png_20230322075315.png" tvg-name="Deutsches Kino - Rakuten TV" , Deutsches Kino - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300017VV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4978" tvg-id="DEBA3300039TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300039TT_20220810T012638SQUARE.png_20220810012639.png" tvg-name="Moviedome" , Moviedome
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300039TT&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4980" tvg-id="DE1900001NT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900001NT_20240827T041043SQUARE.png" tvg-name="Himmlisches Kino" , Himmlisches Kino
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE1900001NT&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4985" tvg-id="DE2400001DK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400001DK_20240905T090302SQUARE.png" tvg-name="DDR TV-Archiv" , DDR TV-Archiv
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2400001DK&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4986" tvg-id="DEBD2700002MZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700002MZ_20240131T031123SQUARE.png_20240131031124.png" tvg-name="alleskino" , alleskino
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2700002MZ&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4987" tvg-id="DEAK0500448A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500448A_20240611T061012SQUARE.png" tvg-name="Artflix" , Artflix
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500448A&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4989" tvg-id="DE2300002KX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2300002KX_20240709T045051SQUARE.png" tvg-name="Top Sci-Fi" , Top Sci-Fi
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2300002KX&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4992" tvg-id="DEAJ3500002EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20240611T061005SQUARE.png" tvg-name="KomÃ¶dien - Rakuten TV" , KomÃ¶dien - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ3500002EO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4993" tvg-id="DEBA3300032UV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20240911T163002SQUARE.png" tvg-name="MyTime Movie Network" , MyTime Movie Network
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBA3300032UV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4994" tvg-id="DE26000096S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000096S_20240827T041109SQUARE.png" tvg-name="Top Filme - Rakuten TV" , Top Filme - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE26000096S&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4995" tvg-id="DEBD2700001ID" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700001ID_20231115T012104SQUARE.png_20231115012104.png" tvg-name="DEFA TV" , DEFA TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBD2700001ID&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Serien;Samsung TV Plus" tvg-chno="4997" tvg-id="DEBB3100001AR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3100001AR_20240911T162844SQUARE.png" tvg-name="Crime Mix" , Crime Mix
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEBB3100001AR&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4998" tvg-id="DEAJ3500003YF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500003YF_20220323T074908SQUARE.png_20220323074911.png" tvg-name="Drama Filme - Rakuten TV" , Drama Filme - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAJ3500003YF&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="4999" tvg-id="DE2600005XA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600005XA_20240827T041057SQUARE.png" tvg-name="Actionfilme - Rakuten TV" , Actionfilme - Rakuten TV
+plugin://slyguy.samsung.tv.plus/?_=play&id=DE2600005XA&_is_live=1&_noresume=.pvr
+
+
+
+
+
 #EXTINF:-1 group-title="Neu auf Pluto TV;Pluto TV" tvg-chno="1111" tvg-id="66c45b1803e3b20008d8c200" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG.png" tvg-name="CNNi" , CNNi
 plugin://slyguy.pluto.tv.provider/?_=play&id=66c45b1803e3b20008d8c200&_is_live=1&_noresume=.pvr
 
@@ -143,19 +555,22 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=62f4f4b88157cf00075c22db&_is_live=1
 #EXTINF:-1 group-title="Filme;Pluto TV" tvg-chno="1172" tvg-id="6305ca798bd95300072d2f93" tvg-logo="https://images.pluto.tv/channels/6305ca798bd95300072d2f93/colorLogoPNG.png" tvg-name="Filmgold" , Filmgold
 plugin://slyguy.pluto.tv.provider/?_=play&id=6305ca798bd95300072d2f93&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1175" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-name="Pluto TV liebt John Wayne" , Pluto TV liebt John Wayne
+#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-name="Pluto TV liebt John Wayne" , Pluto TV liebt John Wayne
 plugin://slyguy.pluto.tv.provider/?_=play&id=65ef0f9d2873090008be19df&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1176" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-name="Rauchende Colts" , Rauchende Colts
+#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-name="Rauchende Colts" , Rauchende Colts
 plugin://slyguy.pluto.tv.provider/?_=play&id=638f2bc7bc363100072f02dd&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Filme;Samsung TV Plus" tvg-chno="1177" tvg-id="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20240321T045859SQUARE.png" tvg-name="Grjngo" , Grjngo
+plugin://slyguy.samsung.tv.plus/?_=play&id=DEAK0500449A&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" tvg-name="Pluto TV Western" , Pluto TV Western
 plugin://slyguy.pluto.tv.provider/?_=play&id=630dd3b2605f140007e002f5&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1178" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-name="Rawhide - Tausend Meilen Staub" , Rawhide - Tausend Meilen Staub
+#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-name="Rawhide - Tausend Meilen Staub" , Rawhide - Tausend Meilen Staub
 plugin://slyguy.pluto.tv.provider/?_=play&id=638f2983dcd9100008c2374d&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1179" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-name="Fury" , Fury
+#EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-name="Fury" , Fury
 plugin://slyguy.pluto.tv.provider/?_=play&id=6270ea4345f5bc0007823048&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Deutsche Serien;Pluto TV" tvg-chno="1180" tvg-id="6254240a8256cb00079a9bf1" tvg-logo="https://images.pluto.tv/channels/6254240a8256cb00079a9bf1/colorLogoPNG.png" tvg-name="Praxis BÃ¼lowbogen" , Praxis Bülowbogen
