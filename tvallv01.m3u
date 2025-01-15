@@ -7,6 +7,8 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+ACTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+BEST+OF
 #EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png" tvg-chno="04" ,Sky Cinema Classics
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="Sky Nostalgie" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Nostalgie.svg/425px-Sky_Nostalgie.svg.png" tvg-chno="04" ,Sky Nostalgie
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+NOSTALGIE
 #EXTINF:-1 tvg-id="Sky Cinema Fun" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1466.png" tvg-chno="05" ,Sky Cinema Fun
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+FUN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" tvg-chno="06" ,Sky Cinema Premieren
@@ -174,7 +176,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+2
 #EXTINF:-1 tvg-name="ORF III" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+3
 #EXTINF:-1 tvg-id="oe24.TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/435.png",OE24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 #EXTINF:-1 tvg-id="ServusTVHD.at" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV HD AUSTRIA
