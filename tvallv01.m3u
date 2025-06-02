@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://michaz1988.github.io/guide.xml.gz"
-#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png"  tvg-chno="01" ,Sky Atlantic
+#EXTINF:-1 tvg-id="767" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png"  tvg-chno="01" ,Sky Atlantic
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png" tvg-chno="02" ,Sky Cinema Action
+#EXTINF:-1 tvg-id="613" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png" tvg-chno="02" ,Sky Cinema Action
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+ACTION
 #EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/527.png" tvg-chno="03" ,Sky Cinema Best of
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+BEST+OF
-#EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png" tvg-chno="04" ,Sky Cinema Classics
+#EXTINF:-1 tvg-id="614" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png" tvg-chno="04" ,Sky Cinema Classics
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-id="Sky Nostalgie" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Nostalgie.svg/425px-Sky_Nostalgie.svg.png" tvg-chno="04" ,Sky Nostalgie
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+NOSTALGIE
 #EXTINF:-1 tvg-id="Sky Cinema Fun" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1466.png" tvg-chno="05" ,Sky Cinema Fun
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+FUN
-#EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" tvg-chno="06" ,Sky Cinema Premieren
+#EXTINF:-1 tvg-id="610" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" tvg-chno="06" ,Sky Cinema Premieren
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren +24" group-title="Standart" tvg-logo="https://sender.epglogos.de/302x190_w/612.png" tvg-chno="07" ,Sky Cinema Premieren +24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+PREMIEREN+%2B24
@@ -19,23 +19,23 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+PREMIER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png" tvg-chno="09" ,Sky Cinema Thriller
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+THRILLER
-#EXTINF:-1 tvg-id="Sky Crime" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1424.png" tvg-chno="10" ,Sky Crime
+#EXTINF:-1 tvg-id="603" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1424.png" tvg-chno="10" ,Sky Crime
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CRIME
-#EXTINF:-1 tvg-id="Sky Documentaries" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1443.png" tvg-chno="11" ,Sky Documentaries
+#EXTINF:-1 tvg-id="12148" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1443.png" tvg-chno="11" ,Sky Documentaries
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+DOCUMENTARIES
-#EXTINF:-1 tvg-id="Sky Krimi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" tvg-chno="12" ,Sky Krimi
+#EXTINF:-1 tvg-id="615" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" tvg-chno="12" ,Sky Krimi
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+KRIMI
-#EXTINF:-1 tvg-id="Sky Nature" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png"tvg-chno="13" ,Sky Nature
+#EXTINF:-1 tvg-id="12147" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png"tvg-chno="13" ,Sky Nature
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+NATURE
-#EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png" tvg-chno="14" ,Sky One
+#EXTINF:-1 tvg-id="12046" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png" tvg-chno="14" ,Sky One
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+1
-#EXTINF:-1 tvg-id="Sky Replay" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png" tvg-chno="15" ,Sky Replay
+#EXTINF:-1 tvg-id="12178" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png" tvg-chno="15" ,Sky Replay
 plugin://plugin.video.baubauvavoo/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="Sky Showcase" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1465.png" tvg-chno="16" ,Sky Showcase
+#EXTINF:-1 tvg-id="12184" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1465.png" tvg-chno="16" ,Sky Showcase
 plugin://plugin.video.baubauvavoo/?name=SKY+SHOWCASE
 #EXTINF:-1 tvg-id="SKY COMEDY" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/375px-Sky_Comedy_logo_2020.svg.png" tvg-chno="17" ,SKY COMEDY
 plugin://plugin.video.baubauvavoo/?action=&group=Germany&name=SKY+COMEDY
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/320px-Sky_Cinema_Family_-_Logo_2021.svg.png" tvg-chno="18" ,SKY CINEMA FAMILY
+#EXTINF:-1 tvg-id="12042" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/320px-Sky_Cinema_Family_-_Logo_2021.svg.png" tvg-chno="18" ,SKY CINEMA FAMILY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="SKY SERIEN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/375px-SKY_Basic_Logo.svg.png" tvg-chno="19" ,SKY SERIEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SERIEN+%26+SHOWS
