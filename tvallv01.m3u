@@ -134,9 +134,9 @@ plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 #EXTINF:-1 tvg-id="12188" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/dazn1.png",DAZN 1
-plugin://plugin.video.vavooto/?name=DAZN+1
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN+1
 #EXTINF:-1 tvg-id="12189" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/dazn2.png",DAZN 2
-plugin://plugin.video.vavooto/?name=DAZN+2
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN+2
 #EXTINF:-1 tvg-id="389" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/eurosport1.png",Eurosport 1
 plugin://plugin.video.joyn/?mode=play_video&video_id=eurosport1-de&stream_type=LIVE
 #EXTINF:-1 tvg-id="18" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/eurosport2.png",Eurosport 2
