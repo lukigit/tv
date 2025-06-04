@@ -63,11 +63,11 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+COLLECTION
 #EXTINF:-1 tvg-id="782" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" tvg-chno="28" ,Universal Channel
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=UNIVERSAL+TV
-#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png" tvg-chno="29" ,WarnerTV Comedy
+#EXTINF:-1 tvg-id="12035" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png" tvg-chno="29" ,WarnerTV Comedy
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+COMEDY
-#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png" tvg-chno="30" ,WarnerTV Film
+#EXTINF:-1 tvg-id="633" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png" tvg-chno="30" ,WarnerTV Film
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+FILM
-#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png" tvg-chno="31" ,WarnerTV Serie
+#EXTINF:-1 tvg-id="590" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png" tvg-chno="31" ,WarnerTV Serie
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="450" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png" tvg-chno="32" ,Kinowelt
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOWELT+TV
