@@ -61,7 +61,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+3
 #EXTINF:-1 tvg-id="MAX KINO COLLECTION" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Max.no_logo.png/375px-Max.no_logo.png" tvg-chno="27" ,Max Kino Collection
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX+KINO+COLLECTION
-#EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" tvg-chno="28" ,Universal Channel
+#EXTINF:-1 tvg-id="782" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" tvg-chno="28" ,Universal Channel
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png" tvg-chno="29" ,WarnerTV Comedy
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+COMEDY
@@ -69,49 +69,51 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+COMEDY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png" tvg-chno="31" ,WarnerTV Serie
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png" tvg-chno="32" ,Kinowelt
+#EXTINF:-1 tvg-id="450" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png" tvg-chno="32" ,Kinowelt
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOWELT+TV
 #EXTINF:-1 tvg-id="MOVIES CH" group-title="Standart" tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg" tvg-chno="33" ,MOVIES CH
 plugin://plugin.video.vavooto/?name=MOVIES CH
-#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png" tvg-chno="34" ,13TH Street
+#EXTINF:-1 tvg-id="471" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png" tvg-chno="34" ,13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png"  tvg-chno="35" ,History
+#EXTINF:-1 tvg-id="472" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png"  tvg-chno="35" ,History
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HISTORY
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png" tvg-chno="36" ,Geo
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GEO+TV
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png" tvg-chno="37" ,Nat Geo Wild
+#EXTINF:-1 tvg-id="626" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png" tvg-chno="37" ,Nat Geo Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
-#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png" tvg-chno="38" ,Nat Geo
+#EXTINF:-1 tvg-id="453" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png" tvg-chno="38" ,Nat Geo
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png" tvg-chno="39" ,Discovery
+#EXTINF:-1 tvg-id="138" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png" tvg-chno="39" ,Discovery
 plugin://plugin.video.vavooto/?name=DISCOVERY
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" tvg-chno="40" ,DMAX AUSTRIA
+#EXTINF:-1 tvg-id="507" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" tvg-chno="40" ,DMAX AUSTRIA
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
+#EXTINF:-1 tvg-id="56" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD
+#EXTINF:-1 tvg-id="104" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
-plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="BR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_BR_Fernsehen_2021.svg",BR
+#EXTINF:-1 tvg-id="468" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/axnblack.png",AXN BLACK
+plugin://plugin.video.vavooto/?name=AXN+BLACK
+#EXTINF:-1 tvg-id="778" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/axnwhite.png",AXN WHITE
+plugin://plugin.video.vavooto/?name=AXN+WHITE
+#EXTINF:-1 tvg-id="51" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/br.png",BR
 plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
+#EXTINF:-1 tvg-id="58" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
 plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
+#EXTINF:-1 tvg-id="656" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="BR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
-plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
+#EXTINF:-1 tvg-id="531" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
-#EXTINF:-1 tvg-id="Cartoonito" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/451.png",Cartoonito
+#EXTINF:-1 tvg-id="148" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/451.png",Cartoonito
 plugin://plugin.video.vavooto/?name=CARTOONITO
-#EXTINF:-1 tvg-id="Comedy Central" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
+#EXTINF:-1 tvg-id="532" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
-plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
-plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
-#EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
+#EXTINF:-1 tvg-id="756" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/curiosity.png",Curiosity Channel
+plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
+#EXTINF:-1 tvg-id="4004" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/crimeandinvestigation.png",CRIME + INVESTIGATION
+plugin://plugin.video.vavooto/?name=CRIME+%2b+INVESTIGATION
+#EXTINF:-1 tvg-id="71" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/ard.png",ARD
+plugin://plugin.video.vavooto/?name=ARD
+#EXTINF:-1 tvg-id="511" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/208px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png", DELUXE DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -125,59 +127,63 @@ plugin://plugin.video.vavooto/?name=KRONE+HIT+TV
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 #EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
 plugin://plugin.video.vavooto/?name=MTV
-#EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
+#EXTINF:-1 tvg-id="558" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/jukebox.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
-plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="138" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/discoverychannel.png",Discovery
+plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
-plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
+#EXTINF:-1 tvg-id="12188" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/dazn1.png",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 tvg-id="12189" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/dazn2.png",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
+#EXTINF:-1 tvg-id="389" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/eurosport1.png",Eurosport 1
+plugin://plugin.video.joyn/?mode=play_video&video_id=eurosport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="18" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/eurosport2.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
+#EXTINF:-1 tvg-id="154" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/heimatkanal.png",Heimatkanal
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HEIMAT+KANAL
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-id="HR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png",HR
+#EXTINF:-1 tvg-id="49" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/hr.png",HR
 plugin://plugin.video.vavooto/?name=HR
-#EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png",Junior
+#EXTINF:-1 tvg-id="485" group-title="Standart" tvg-logo="https://michaz1988.github.io/logos/nickelodeonjunior.png",Junior
 plugin://plugin.video.vavooto/?name=JUNIOR
-#EXTINF:-1 tvg-id="kabel eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
+#EXTINF:-1 tvg-id="44" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
 plugin://plugin.video.vavooto/?name=KABEL+1
-#EXTINF:-1 tvg-id="kabel eins classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
+#EXTINF:-1 tvg-id="492" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
+#EXTINF:-1 tvg-id="12053" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
-#EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
+#EXTINF:-1 tvg-id="57" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
 plugin://plugin.video.vavooto/?name=KIKA
-#EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
+#EXTINF:-1 tvg-id="48" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
 plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
+#EXTINF:-1 tvg-id="627" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
 plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
+#EXTINF:-1 tvg-id="66" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
 plugin://plugin.video.vavooto/?name=NTV
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
+#EXTINF:-1 tvg-id="12045" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
 plugin://plugin.video.vavooto/?name=N24+DOKU
-#EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
+#EXTINF:-1 tvg-id="47" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
 plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1 tvg-id="Nicktoons" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",nickelodeon
+#EXTINF:-1 tvg-id="551" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
-#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
+#EXTINF:-1 tvg-id="146" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
+#EXTINF:-1 tvg-id="115"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ATV
-#EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
+#EXTINF:-1 tvg-id="761" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ATV+2
-#EXTINF:-1 tvg-id="PULS 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
+#EXTINF:-1 tvg-id="402" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PULS+4
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
+#EXTINF:-1 tvg-id="54" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+1
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
+#EXTINF:-1 tvg-id="55" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+2
-#EXTINF:-1 tvg-name="ORF III" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
+#EXTINF:-1 tvg-name="757" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF+3
 #EXTINF:-1 tvg-id="oe24.TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/435.png",OE24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
@@ -215,85 +221,85 @@ https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-id="PHOENIX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
+#EXTINF:-1 tvg-id="194" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
 plugin://plugin.video.vavooto/?name=PHOENIX
 #EXTINF:-1 tvg-id="euronews" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/375px-Euronews_2022.svg.png",euronews
 plugin://plugin.video.vavooto/?name=EURONEWS
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
+#EXTINF:-1 tvg-id="40" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
-#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",PROSIEBEN FUN
+#EXTINF:-1 tvg-id="765" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",PROSIEBEN FUN
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
+#EXTINF:-1 tvg-id="783" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
-#EXTINF:-1 tvg-id="RBB" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
+#EXTINF:-1 tvg-id="52" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
 plugin://plugin.video.vavooto/?name=RBB
-#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
+#EXTINF:-1 tvg-id="38" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
-#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
+#EXTINF:-1 tvg-id="41" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.vavooto/?name=RTL+2
-#EXTINF:-1 tvg-id="RTL Crime" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1444.png",RTL Crime
+#EXTINF:-1 tvg-id="527" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1444.png",RTL Crime
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL+CRIME+HD%2B
-#EXTINF:-1 tvg-id="RTL Living" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1446.png",RTL Living
+#EXTINF:-1 tvg-id="528" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1446.png",RTL Living
 plugin://plugin.video.vavooto/?name=RTL+LIVING
-#EXTINF:-1 tvg-id="NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
+#EXTINF:-1 tvg-id="763" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
 plugin://plugin.video.vavooto/?name=RTL+NITRO
-#EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
+#EXTINF:-1 tvg-id="529" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
 plugin://plugin.video.vavooto/?name=RTL+PASSION
-#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL plus
+#EXTINF:-1 tvg-id="12033" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL plus
 plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 tvg-id="RiC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png",RiC
+#EXTINF:-1 tvg-id="771" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png",RiC
 plugin://plugin.video.vavooto/?name=RIC
-#EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
+#EXTINF:-1 tvg-id="552" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
-#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
+#EXTINF:-1 tvg-id="39" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="SAT.1 emotions" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png",Sat 1 Emotions
+#EXTINF:-1 tvg-id="766" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png",Sat 1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
-#EXTINF:-1 tvg-id="SAT.1 Gold" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
+#EXTINF:-1 tvg-id="12193" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox
+#EXTINF:-1 tvg-id="42" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox
 plugin://plugin.video.vavooto/?name=VOX
-#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100",Vox UP
+#EXTINF:-1 tvg-id="12125" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100",Vox UP
 plugin://plugin.video.vavooto/?name=VOX+UP
-#EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
+#EXTINF:-1 tvg-id="451" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="sixx" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
+#EXTINF:-1 tvg-id="694" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-id="Sony Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SONY+CHANNEL+HD%2B
-#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
+#EXTINF:-1 tvg-id="625" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
-#EXTINF:-1 tvg-id="SPORT1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png",Sport 1
+#EXTINF:-1 tvg-id="64" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png",Sport 1
 plugin://plugin.video.vavooto/?name=SPORT+1
-#EXTINF:-1 tvg-id="sportdigital Fussball" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png",Sport digital
+#EXTINF:-1 tvg-id="564" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png",Sport digital
 plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
-#EXTINF:-1 tvg-id="Super RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png",Super RTL
+#EXTINF:-1 tvg-id="43" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png",Super RTL
 plugin://plugin.video.vavooto/?name=SUPER+RTL
-#EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
+#EXTINF:-1 tvg-id="50" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.vavooto/?name=SWR
-#EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
+#EXTINF:-1 tvg-id="472" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
-#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
+#EXTINF:-1 tvg-id="4003" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1 tvg-id="tagesschau24" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png",Tagesschau 24
+#EXTINF:-1 tvg-id="100" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png",Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png",Tele 5
+#EXTINF:-1 tvg-id="277" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
-#EXTINF:-1 tvg-id="TOGGO plus" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100",Toggo
+#EXTINF:-1 tvg-id="601" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100",Toggo
 plugin://plugin.video.vavooto/?name=TOGGO+PLUS
-#EXTINF:-1 tvg-id="WDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
+#EXTINF:-1 tvg-id="46" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="WELT" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png",WELT
+#EXTINF:-1 tvg-id="175" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png",WELT
 plugin://plugin.video.vavooto/?name=WELT
-#EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
+#EXTINF:-1 tvg-id="4005" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
 plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
+#EXTINF:-1 tvg-id="37" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
-#EXTINF:-1 tvg-id="ZDFinfo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
+#EXTINF:-1 tvg-id="276" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
+#EXTINF:-1 tvg-id="659" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="DMAX.it" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/375px-DMAX_BLACK.svg.png",DMAX ITALIA
 plugin://plugin.video.BauBauVavoo/?action=&group=Italy&name=DMAX
