@@ -75,7 +75,7 @@ plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOWELT+TV
 plugin://plugin.video.vavooto/?name=MOVIES CH
 #EXTINF:-1 tvg-id="471" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png" tvg-chno="34" ,13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="472" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png"  tvg-chno="35" ,History
+#EXTINF:-1 tvg-id="452" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png"  tvg-chno="35" ,History
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HISTORY
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png" tvg-chno="36" ,Geo
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GEO+TV
