@@ -556,7 +556,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=62f4f4b88157cf00075c22db&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=6305ca798bd95300072d2f93&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="65ef0f9d2873090008be19df" tvg-logo="https://images.pluto.tv/channels/65ef0f9d2873090008be19df/colorLogoPNG.png" tvg-name="Pluto TV liebt John Wayne" , Pluto TV liebt John Wayne
-plugin://slyguy.pluto.tv.provider/?_=play&id=65ef0f9d2873090008be19df&_is_live=1&_noresume=.pvr
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ef0f9d2873090008be19df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea089-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=debf8004-1d35-4eb6-830a-47860f09640f
 
 #EXTINF:-1 group-title="Western;Pluto TV" tvg-chno="1177" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-name="Rauchende Colts" , Rauchende Colts
 plugin://slyguy.pluto.tv.provider/?_=play&id=638f2bc7bc363100072f02dd&_is_live=1&_noresume=.pvr
